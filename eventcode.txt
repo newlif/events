@@ -1,0 +1,96 @@
+//inc.Event Code
+$VER=2.75
+
+$parameters $event ev_id ev_title_linz ev_summary_linz ev_url_linz ev_time ev_place_line ev_pic_id ev_pic_line ev_d1_linz ev_d2_linz ev_d3_linz ev_d4_linz ev_d5_linz ev_d6_linz ev_d7_linz
+$event={
+  $setval ${summa$ev_id}=$ev_summary_linz
+  $setval ${evurl$ev_id}=$ev_url_linz
+  $setval ${title$ev_id}=$ev_title_linz
+  $setval ${etime$ev_id}=$ev_time
+  $setval ${place$ev_id}=$ev_place_line
+  $setval ${imgid$ev_id}=$ev_pic_id
+  $setval ${imgde$ev_id}=$ev_pic_line
+  $setval ${descr$ev_id}=$ev_d1_linz
+  $ev_2=||$ev_3=||$ev_4=||$ev_5=||$ev_6=||$ev_7=
+  $if $ev_d2_linz
+    $setval $ev_2=${NL}$ev_d2_linz
+    //$using ${descr$ev_id} $concatv $ev_2
+  $endif
+  $if $ev_d3_linz
+    $setval $ev_3=${NL}$ev_d3_linz
+  $endif
+  $if $ev_d4_linz
+    $setval $ev_4=${NL}$ev_d4_linz
+  $endif
+  $if $ev_d5_linz
+    $setval $ev_5=${NL}$ev_d5_linz
+  $endif
+  $if $ev_d6_linz
+    $setval $ev_6=${NL}$ev_d6_linz
+  $endif
+  $if $ev_d7_linz
+    $setval $ev_7=${NL}$ev_d7_linz
+  $endif
+  $using ${descr$ev_id} $concatv $ev_2 $concatv $ev_3 $concatv $ev_4 $concatv $ev_5 $concatv $ev_6 $concatv $ev_7
+}
+
+$parameters $showtab ev_id
+$showtab={
+  ...${title$ev_id} on $ev_id.yeardate()
+  *${summa$ev_id}* ${evurl$ev_id}
+  ----t\n$VB Time $VB Place $VB
+  $VB ${etime$ev_id} $VB ${place$ev_id} $VB
+  ----
+  //$setval $imgtest=${imgid$ev_id}
+  //$if $imgtest!=noimage
+  $if ${imgid$ev_id}!=noimage
+    $img_class1=event
+    $img_style1=width:100px;
+    [[${imgid$ev_id} ${imgde$ev_id}]]
+  $else
+    _(${imgid$ev_id})_
+  $endif
+  *Description:*
+  ${descr$ev_id}
+}
+
+$parameters $news ev_id
+$news={
+  ..${title$ev_id}
+  *${summa$ev_id}*
+  $if $showpic_x
+    $pic $showpic_x $showpic_y ${imgid$ev_id} ${imgde$ev_id}
+    $unset $showpic_x
+  $endif
+  ${descr$ev_id}
+  $pushset $p_style=margin-top:0;margin-bottom:0;
+  $pushset $ul_style=margin-top:0;margin-bottom:0;
+  $pushset $ol_style=margin-top:0;margin-bottom:0;
+  $tbody_style1=background-color:#F0FFF0;
+  ---- indent
+  <span style="color:#888; font-weight:bold;">Details:</span>
+  -*Time:* ${etime$ev_id}
+  -*Date:* $ev_id.monthdate()
+  -*Place:* ${place$ev_id}
+  -[[${evurl$ev_id} More info]]
+  $pop $ol_style
+  $pop $ul_style
+  $pop $p_style
+  ----
+  //$if ${imgid$ev_id}!=noimage
+  //  $set $img_class1=event
+  //  [[${imgid$ev_id} ${imgde$ev_id}]]
+  //$endif
+  $setval $picurl=${imgid$ev_id}
+  $setval $pictitle=${imgde$ev_id}
+  $setval $link=${evurl$ev_id}
+}
+
+$parameters $showpic showpic_x showpic_y
+$showpic= //just exists to get parameters
+
+$parameters $upcoming ev_id
+$upcoming={
+-$ev_id.monthdate(): [[${evurl$ev_id} ${title$ev_id}]]
+}
+

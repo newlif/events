@@ -1,0 +1,10 @@
+//inc.list of all events
+$VER=2.75
+
+$include sunday.txt
+$include prayer.txt
+$include social.txt
+$include women.txt
+$include men.txt
+$include other.txt
+

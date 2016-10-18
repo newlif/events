@@ -1,0 +1,14 @@
+//inc.Women's Events
+$VER=2.75 
+
+$event 2016-10-22-wbrunch Women's Brunch /////////////////////////////////////////
+Monthly brunch for the women of Newlife.
+http://nlife.ca/meeting/2016-10-22
+10:30am-12:30pm TBA
+noimage
+-All women who come to Newlife are very welcome!
+-Speaker: TBA
+
+
+//end
+

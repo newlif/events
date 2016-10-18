@@ -1,0 +1,14 @@
+//inc.Events happening on Sundays
+$VER=2.75 
+
+$event 2016-10-02-food Bring & Share Thanksgiving this Sunday /////////////////////////////////////////
+This Sunday we're having a Bring & Share Thanksgiving meal after church.
+http://nlife.ca/signup/2016-10-02
+"after church" St. Joseph's Cafeteria
+http://nlife.ca/sites/default/files/2014-10-thanksgiving-0743-600.jpg Turkey with all the extras
+-Since some students may go home for Thanksgiving so we also wanted to have our feast early to include as many as possible. Remember to invite your student friends to church for this event.
+-Don't forget [[/signup/$sun to sign up to bring something]].
+-If you have something you like to make or a dish that reminds you of home please make it so we can all enjoy.
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions.
+
+//

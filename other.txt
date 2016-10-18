@@ -1,0 +1,14 @@
+//inc.Other Events
+$VER=2.76
+
+$event 2016-10-29-nf Great Lakes Region Conference /////////////////////////////////////////
+A morning together for Newfrontiers churches with a special focus on persevering through difficulties
+http://new-frontiers.ca/content/great-lakes-region-conference-2016
+9:30am-1:00pm Milton Bible Church, 200 Main St. E. Milton ON L9T 1N8
+noimage
+-Session 1: Roger Bye - A Faithful God
+-Session 2: David Campbell - Perseverance
+
+
+//end
+
