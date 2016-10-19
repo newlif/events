@@ -1,6 +1,5 @@
 //inc.Event Code
-$VER=2.76
-$include shortcuts.txt
+$VER=2.75
 
 $parameters $event ev_id ev_title_linz ev_summary_linz ev_url_linz ev_time ev_place_line ev_pic_id ev_pic_line ev_d1_linz ev_d2_linz ev_d3_linz ev_d4_linz ev_d5_linz ev_d6_linz ev_d7_linz
 $event={
