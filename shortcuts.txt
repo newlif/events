@@ -1,0 +1,12 @@
+//inc.Shortcut codes
+$VER=2.76
+
+$sun=Sunday
+$bumos=Bumo and Hle's (Near Bloor/Broadview subway)
+$bumos_full=Bumo and Hle's (Near Bloor/Broadview subway) $BR[[location/50-cambridge 50 Cambridge Ave (apt 303), Toronto ON M4K 2L3]] 
+$fountains_full=The Fountains' (Sackville & Carlton) $BR[[location/360sackville 360 Sackville St, Toronto, M4X 1S4]]
+$fountains=The Fountains' [[/location/360sackville 360 Sackville St]]
+$heskes=Evert & Sandra's (Wellesley & Sherbourne) $BR[[/location/545_Sherbourne 545 Sherbourne St. Apt 1906, _buzzer 317_]]
+$quicks=Braden & Claire's (Bay & College) $BR[[/location/763_Bay 763 Bay Street, Unit 2101 (Buzzer 568 or 917), M5G 2R3]]
+$smiths=Dan & Heather's (St. Clair & Dufferin) $BR[[/location/64Earlsdale 64 Earlsdale Ave]]
+$stjosephs=[[/location/st_josephs St. Joseph's College]] at 74 Wellesley St West (just west of Bay)
