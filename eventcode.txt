@@ -99,7 +99,7 @@ $upcoming={
 
 $parameters $show ev_id
 $show={
-  <!--${title$ev_id}-->
+  $block_title1=${title$ev_id}
   ...${summa$ev_id}
   ${descr$ev_id}
   $tbody_style1=background-color:#F0FFF0;
