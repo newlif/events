@@ -1,5 +1,6 @@
 //inc.Event Code
-$VER=2.75
+$VER=2.76
+$include shortcuts.txt
 $imgroot=http://nlife.ca/sites/default/files
 $imgbase=/
 
