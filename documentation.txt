@@ -1,0 +1,36 @@
+//.Events Documentation
+$VER=2.76
+
+// Lines beginning with two '/' are comments are are ignored
+// Comments can also be added to the end of existing lines
+// Each event has 6 information lines, plus up to another 7 lines of description
+
+$event YYY-MM-DD-shorthand Title of Event
+Subtitle or one-line summary of event
+Full url of event //e.g. http://nlife.ca/meeting/2016-10-15
+Time Place // no spaces in time, e.g. 10:30am-12:30pm Place can be shortcut, e.g. $smiths
+name of image, or the word "noimage" followed by optional caption // e.g. 2016-04-09-mens-brunch.jpg Enjoying Fellowship
+-Up to seven lines of description
+-If they start with "-" then it will show as a bulleted list
+-Phrases may be *in bold* or _in italics_
+
+// Some examples:
+
+$event 2016-12-01-challenge The Challenge Event for men 
+The Challenge is designed to be an intense event where young men can find a greater place in God.
+http://challenge.new-frontiers.ca/ 
+"Thurs eve--Sat afternoon" Fair Havens retreat centre
+http://challenge.new-frontiers.ca/images/challenge-2016.jpg Be challenged!
+-This event is designed for men aged 16 through 35.
+-The cost will be approximately $170 everything included.\n-Contact Dan if you are interested
+
+$event 2016-11-12-mens Men's Brunch
+Topic to be announced
+http://nlife.ca/meeting/2016-11-12
+10:30am-12:30pm $smiths
+2016-04-09-mens-brunch.jpg Enjoying Fellowship
+-All Newlife men are welcome!
+-Suggested contribution: $5
+
+// <-marks the end of the file
+
