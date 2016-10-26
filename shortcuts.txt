@@ -1,7 +1,7 @@
 //inc.Shortcut codes
 $VER=2.76
 
-$sun=Sunday
+$modify($sun).whenunset(Sunday)
 $bumos=Bumo and Hle's (Near Bloor/Broadview subway)
 $bumos_full=Bumo and Hle's (Near Bloor/Broadview subway) $BR[[location/50-cambridge 50 Cambridge Ave (apt 303), Toronto ON M4K 2L3]] 
 $fountains_full=The Fountains' (Sackville & Carlton) $BR[[location/360sackville 360 Sackville St, Toronto, M4X 1S4]]
