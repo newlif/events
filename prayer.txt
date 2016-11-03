@@ -16,15 +16,6 @@ http://nlife.ca/meeting/2016-10-27
 noimage
 _"And pray always in the Spirit with all kinds of prayers and requests... praying for all the Lord’s people." Eph 6:18_
 -We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.
--Everyone is welcome
-
-$event 2016-10-27-prayer Church Prayer Meeting /////////////////////////////////////////
-Monthly prayer meeting for the whole church.
-http://nlife.ca/meeting/2016-10-27
-7:30-9:00pm $fountains_full
-noimage
-_"And pray always in the Spirit with all kinds of prayers and requests... praying for all the Lord’s people." Eph 6:18_
--We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.
 -Everyone is welcome!
 
 $event 2016-11-10-wprayer Women's Prayer Meeting /////////////////////////////////////////
@@ -32,16 +23,25 @@ Monthly prayer meeting just for the ladies.
 http://nlife.ca/meeting/2016-11-10
 7:30pm-9:30pm $stjosephs
 noimage
--All women from NewLife are welcome!
--We’ll spend time encouraging and praying for one another, as well as praying for more general issues that affect us as women.
+-God clearly spoke to the women saying we should ARISE! One way,we felt to answer the call is to pray together in the Spirit and according to the Word of God. As we pray for the church, the city and one another, God speaks and encourages us.
+-Come join us if you want God to be at work in your life and in the life of people around you. 
+
+$event 2016-12-01-prayer Church Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting for the whole church.
+http://nlife.ca/meeting/2016-10-27
+7:30-9:00pm $stjosephs
+noimage
+_"And pray always in the Spirit with all kinds of prayers and requests... praying for all the Lord’s people." Eph 6:18_
+-We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.
+-Everyone is welcome!
 
 $event 2016-12-15-wprayer Women's Prayer Meeting /////////////////////////////////////////
 Monthly prayer meeting just for the ladies.
 http://nlife.ca/meeting/2016-12-15
 7:30pm-9:30pm $stjosephs
 noimage
--All women from New Life are welcome!
--We’ll spend time encouraging and praying for one another, as well as praying for more general issues that affect us as women.
+-God clearly spoke to the women saying we should ARISE! One way,we felt to answer the call is to pray together in the Spirit and according to the Word of God. As we pray for the church, the city and one another, God speaks and encourages us.
+-Come join us if you want God to be at work in your life and in the life of people around you. 
 
 $event 2016-12-29-prayer Church Prayer Meeting /////////////////////////////////////////
 Monthly prayer meeting for the whole church.

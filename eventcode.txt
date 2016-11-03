@@ -59,6 +59,7 @@ $showtab={
 
 $parameters $news ev_id
 $news={
+  $setval $link=${evurl$ev_id}
   ..${title$ev_id}
   *${summa$ev_id}*
   $if $showpic_x
@@ -85,9 +86,8 @@ $news={
   //  $set $img_class1=event
   //  [[${imgid$ev_id} ${imgde$ev_id}]]
   //$endif
-  $setval $picurl=${imgid$ev_id}
-  $setval $pictitle=${imgde$ev_id}
-  $setval $link=${evurl$ev_id}
+  //$setval $picurl=${imgid$ev_id}
+  //$setval $pictitle=${imgde$ev_id}
 }
 
 $parameters $showpic showpic_x showpic_y
