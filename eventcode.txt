@@ -42,13 +42,21 @@ $event={
   $endif
   $using ${descr$ev_id} $concatv $ev_2 $concatv $ev_3 $concatv $ev_4 $concatv $ev_5 $concatv $ev_6 $concatv $ev_7
   $if $TESTEVENTS
-    $showtab $ev_id
+    $if $TESTALL
+      $showtab $ev_id
+      --
+    $else
+      $if $ev_id >= $TODAY
+        $showtab $ev_id
+        --
+      $endif
+    $endif
   $endif
 }
 
 $parameters $showtab ev_id
 $showtab={
-  ...${title$ev_id} on $ev_id.yeardate()
+  ..${title$ev_id} on $ev_id.yeardate()
   *${summa$ev_id}* ${evurl$ev_id}
   ----t\n$VB Time $VB Place $VB
   $VB ${etime$ev_id} $VB ${place$ev_id} $VB

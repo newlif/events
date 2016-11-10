@@ -1,0 +1,11 @@
+.All Upcoming Events
+$VER=2.75
+//$OPT_process=TRUE
+$TESTEVENTS=TRUE
+$TESTALL=FALSE
+$h1_style=color:darkblue; background:#DDF; border:none;
+$h2_style=color:darkred; //border-top:solid windowtext 1.0pt; padding-top:0.5em;
+
+$include eventcode.txt
+$include allevents.txt
+
