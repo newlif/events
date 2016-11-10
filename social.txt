@@ -1,5 +1,6 @@
 //inc.Social Events
 $VER=2.75 
+$showtitle
 
 $event 2016-10-10-walk Thanksgiving Day Walk /////////////////////////////////////////
 An afternoon walk on Thanksgiving Monday to a beautiful location

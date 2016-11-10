@@ -1,5 +1,6 @@
 //inc.Men's Events
 $VER=2.75 
+$showtitle
 
 $event 2016-10-15-mens Men's Brunch /////////////////////////////////////////
 Special Speaker this month: David Campbell
@@ -19,7 +20,7 @@ http://challenge.new-frontiers.ca/images/challenge-2016.jpg Be challenged!
 -The cost will be $25 everything included.\n-Contact Dan if you are interested
 
 $event 2016-11-12-mens Men's Brunch /////////////////////////////////////////
-Open to all men who come to Newlife, this is a great opportunity to build relationships and grow as men. //Topic to be announced
+Elliot will be sharing this month. This is a great opportunity to build relationships and grow as men.
 http://nlife.ca/meeting/2016-11-12
 10:30am-12:30pm $smiths
 2016-04-09-mens-brunch.jpg
@@ -27,7 +28,7 @@ http://nlife.ca/meeting/2016-11-12
 -Suggested contribution: $5
 
 $event 2016-12-10-mens Men's Brunch /////////////////////////////////////////
-Topic to be announced
+Open to all men who come to Newlife, this is a great opportunity to build relationships and grow as men. //Topic to be announced
 http://nlife.ca/meeting/2016-12-10
 10:30am-12:30pm $smiths
 2016-04-09-mens-brunch.jpg

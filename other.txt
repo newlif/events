@@ -1,5 +1,6 @@
 //inc.Other Events
 $VER=2.76
+$showtitle
 
 $event 2016-10-29-nf Great Lakes Region Conference /////////////////////////////////////////
 A morning together for Newfrontiers churches with a special focus on persevering through difficulties

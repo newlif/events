@@ -1,5 +1,6 @@
 //inc.Women's Events
 $VER=2.75 
+$showtitle
 
 $event 2016-10-22-wbrunch Women's Brunch /////////////////////////////////////////
 Anne will be sharing about our identity as children of God

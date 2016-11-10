@@ -1,5 +1,6 @@
 //inc.Events happening on Sundays
 $VER=2.75 
+$showtitle
 
 $event 2016-10-02-food Bring & Share Thanksgiving this Sunday /////////////////////////////////////////
 This Sunday we're having a Bring & Share Thanksgiving meal after church.

@@ -4,6 +4,12 @@ $include shortcuts.txt
 $imgroot=http://nlife.ca/sites/default/files
 $imgbase=/
 
+$showtitle={
+  $if $TESTEVENTS
+    .$TITLE_inc
+  $endif
+}
+
 $parameters $event ev_id ev_title_linz ev_summary_linz ev_url_linz ev_time ev_place_line ev_pic_id ev_pic_line ev_d1_linz ev_d2_linz ev_d3_linz ev_d4_linz ev_d5_linz ev_d6_linz ev_d7_linz
 $event={
   $setval ${summa$ev_id}=$ev_summary_linz
@@ -35,6 +41,9 @@ $event={
     $setval $ev_7=${NL}$ev_d7_linz
   $endif
   $using ${descr$ev_id} $concatv $ev_2 $concatv $ev_3 $concatv $ev_4 $concatv $ev_5 $concatv $ev_6 $concatv $ev_7
+  $if $TESTEVENTS
+    $showtab $ev_id
+  $endif
 }
 
 $parameters $showtab ev_id
