@@ -12,6 +12,7 @@ foreach($output as $value) print '<li>' . $value . '</li>';
 print '</ul>';
 ?>`>
 -Rebuild site:<`<?php  
+$output = array();
 $retvar = 0;
 exec('/usr/local/bin/writeup upcoming.txt 2>&1', $output, $retvar);
 print '<ul>';
@@ -21,8 +22,9 @@ else print "<li><strong>Rebuild successful</strong></li>";
 print '</ul>';
 ?>`>
 -Flush Drupal cache: <`<?php
+$output = array();
 $retvar = 0;
-exec('drush -r /home/nlife/nlife7 cc all 2>&1', $output, $retvar);
+exec('/usr/local/bin/drush -r /home/nlife/nlife7 cc all 2>&1', $output, $retvar);
 print '<ul>';
 foreach($output as $value) print '<li>' . $value . '</li>';
 if ($retvar) print "<li><strong>**** PROBLEMS REPORTED BY DRUSH ****</strong></li>";
