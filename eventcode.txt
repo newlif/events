@@ -57,10 +57,10 @@ $event={
 $parameters $showtab ev_id
 $showtab={
   ..${title$ev_id} on $ev_id.yeardate()
-  *${summa$ev_id}* ${evurl$ev_id}
-  ----t\n$VB Time $VB Place $VB
-  $VB ${etime$ev_id} $VB ${place$ev_id} $VB
-  ----
+  -Summary: *${summa$ev_id}*
+  -*Link for more info:* ${evurl$ev_id}
+  -*Time:* ${etime$ev_id}
+  -*Place:* ${place$ev_id}
   //$setval $imgtest=${imgid$ev_id}
   //$if $imgtest!=noimage
   $if ${imgid$ev_id}!=noimage
