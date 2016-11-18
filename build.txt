@@ -21,4 +21,5 @@ if ($retvar) print "<li><strong>**** PROBLEMS REPORTED BY WRITEUP ****</strong><
 else print "<li><strong>Rebuild successful</strong></li>";
 print '</ul>';
 ?>`>
+-Flush Drupal cache: <`<?php print shell_exec("drush -r /home/nlife/nlife7 cc all"); ?>`>
 
