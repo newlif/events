@@ -1,4 +1,7 @@
 //.Events Documentation
+// You can check the upcoming events here: http://nlife.ca/git/events/upcoming.html
+// Event details can be put on a web page with a single line, e.g. $show 2016-11-26-wbrunch
+//   but you must make sure the "input format" (under the body box) is set to event
 $VER=2.76
 
 // Lines beginning with two '/' are comments are are ignored
