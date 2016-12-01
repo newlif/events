@@ -57,7 +57,7 @@ $event={
 
 $parameters $showtab ev_id
 $showtab={
-  ..${title$ev_id} on $ev_id.yeardate()
+  ..<span style="color:black; font-weight:normal;">$ev_id</span> ${title$ev_id} _on $ev_id.yeardate()_
   -Summary: *${summa$ev_id}*
   -*Link for more info:* ${evurl$ev_id}
   -*Time:* ${etime$ev_id}
