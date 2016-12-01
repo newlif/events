@@ -11,10 +11,11 @@ $showtitle={
   $endif
 }
 
-$parameters $event ev_id ev_title_linz ev_summary_linz ev_url_linz ev_time ev_place_line ev_pic_id ev_pic_line ev_d1_linz ev_d2_linz ev_d3_linz ev_d4_linz ev_d5_linz ev_d6_linz ev_d7_linz
+$parameters $event ev_id ev_title_linz ev_summary_linz ev_url_line ev_time ev_place_line ev_pic_id ev_pic_line ev_d1_linz ev_d2_linz ev_d3_linz ev_d4_linz ev_d5_linz ev_d6_linz ev_d7_linz
+$parameters $event_default NO
 $event={
   $setval ${summa$ev_id}=$ev_summary_linz
-  $setval ${evurl$ev_id}=$ev_url_linz
+  $setval ${evurl$ev_id}=$ev_url_line
   $setval ${title$ev_id}=$ev_title_linz
   $setval ${etime$ev_id}=$ev_time
   $setval ${place$ev_id}=$ev_place_line
@@ -81,10 +82,15 @@ $news={
     $customdatefmt=%Ea %Eb %-d //month, day
     $datex_line=on $ev_id.customdate()
   $endif
-  $setval $link=${evurl$ev_id}
-  $if ${title$ev_id}
+  $if ${evurl$ev_id}
+    $setval $link=${evurl$ev_id}
+  $else
+    $link=http://nlife.ca/email
+  $endif
+  $if !$notitle
     ..${title$ev_id} $datex_line
   $endif
+  $notitle=FALSE
   $if ${summa$ev_id}
     *${summa$ev_id}*
   $endif
@@ -103,7 +109,9 @@ $news={
   -*Date:* $ev_id.customdate()
   -*Time:* ${etime$ev_id}
   -*Place:* ${place$ev_id}
-  -[[${evurl$ev_id} More info]]
+  $if ${evurl$ev_id}
+    -[[${evurl$ev_id} More info]]
+  $endif
   $pop $ol_style
   $pop $ul_style
   $pop $p_style
@@ -121,7 +129,11 @@ $showpic= //just exists to get parameters
 
 $parameters $upcoming ev_id
 $upcoming={
--$ev_id.monthdate(): [[${evurl$ev_id} ${title$ev_id}]]
+  $if ${evurl$ev_id}
+    -$ev_id.monthdate(): [[${evurl$ev_id} ${title$ev_id}]]
+  $else
+    -$ev_id.monthdate(): *${title$ev_id}*
+  $endif
 }
 
 $parameters $show ev_id
