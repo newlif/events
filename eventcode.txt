@@ -2,6 +2,7 @@
 $VER=2.76
 $include shortcuts.txt
 $imgroot=http://nlife.ca/sites/default/files
+$dateplus=                // to be added to the end of the title
 $imgbase=/
 
 $showtitle={
@@ -74,10 +75,14 @@ $showtab={
   ${descr$ev_id}
 }
 
-$parameters $news ev_id
+$parameters $news ev_id datex_line
 $news={
+  $if !$datex_line
+    $customdatefmt=%Ea %Eb %-d //month, day
+    $datex_line=on $ev_id.customdate()
+  $endif
   $setval $link=${evurl$ev_id}
-  ..${title$ev_id}
+  ..${title$ev_id} $datex_line
   *${summa$ev_id}*
   $if $showpic_x
     $pic $showpic_x $showpic_y ${imgid$ev_id} ${imgde$ev_id}
@@ -90,7 +95,7 @@ $news={
   $tbody_style1=background-color:#F0FFF0;
   ---- indent
   <span style="color:#888; font-weight:bold;">Details:</span>
-  $customdatefmt=%A %Eb %-d
+  $customdatefmt=%A %Eb %-d //month, day
   -*Date:* $ev_id.customdate()
   -*Time:* ${etime$ev_id}
   -*Place:* ${place$ev_id}
@@ -134,9 +139,9 @@ $show={
   $endif
 }
 
-$parameters $slide ev_id
+$parameters $slide ev_id datex_line
 $slide={
-  {${title$ev_id}
+  {${title$ev_id} $datex_line
   *${summa$ev_id}*
   $customdatefmt=%A %Eb %-d
   -*When:* $ev_id.customdate() ${etime$ev_id}
