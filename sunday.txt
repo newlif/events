@@ -2,7 +2,7 @@
 $VER=2.75 
 $showtitle
 
-$event 2016-10-02-food Bring & Share Thanksgiving this Sunday /////////////////////////////////////////
+$event 2016-10-02-food Bring & Share Thanksgiving  /////////////////////////////////////////
 This Sunday we're having a Bring & Share Thanksgiving meal after church.
 http://nlife.ca/signup/2016-10-02
 "after church" St. Joseph's Cafeteria
@@ -12,7 +12,7 @@ http://nlife.ca/sites/default/files/2014-10-thanksgiving-0743-600.jpg Turkey wit
 -If you have something you like to make or a dish that reminds you of home please make it so we can all enjoy.
 -Contact [[mailto:anne@nlife.ca Anne]] if you have any questions.
 
-$event 2016-11-06-food Bring & Share meal after church this Sunday /////////////////////////////////////////
+$event 2016-11-06-food Bring & Share meal after church  /////////////////////////////////////////
 This Sunday everyone's welcome to stay after church and eat together
 http://nlife.ca/signup/2016-11-06
 "after church" St. Joseph's Cafeteria
@@ -21,7 +21,7 @@ http://nlife.ca/signup/2016-11-06
 -If you have something you like to make or a dish that reminds you of home please make it so we can all enjoy.
 -Contact [[mailto:anne@nlife.ca Anne]] if you have any questions.
 
-$event 2016-12-04-food Bring & Share meal after church this Sunday /////////////////////////////////////////
+$event 2016-12-04-food Bring & Share meal after church  /////////////////////////////////////////
 This Sunday everyone's welcome to stay after church and eat together
 http://nlife.ca/signup/2016-12-04
 "after church" St. Joseph's Cafeteria
