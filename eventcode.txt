@@ -78,6 +78,7 @@ $showtab={
 
 $parameters $news ev_id datex_line
 $news={
+  $block_id=$ev_id
   $if !$datex_line
     $customdatefmt=%Ea %Eb %-d //month, day
     $datex_line=on $ev_id.customdate()
@@ -85,7 +86,7 @@ $news={
   $if ${evurl$ev_id}
     $setval $link=${evurl$ev_id}
   $else
-    $link=http://nlife.ca/email
+    $link=http://nlife.ca/email#$ev_id
   $endif
   $if !$notitle
     ..${title$ev_id} $datex_line
