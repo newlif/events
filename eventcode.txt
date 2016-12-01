@@ -82,8 +82,12 @@ $news={
     $datex_line=on $ev_id.customdate()
   $endif
   $setval $link=${evurl$ev_id}
-  ..${title$ev_id} $datex_line
-  *${summa$ev_id}*
+  $if ${title$ev_id}
+    ..${title$ev_id} $datex_line
+  $endif
+  $if ${summa$ev_id}
+    *${summa$ev_id}*
+  $endif
   $if $showpic_x
     $pic $showpic_x $showpic_y ${imgid$ev_id} ${imgde$ev_id}
     $unset $showpic_x
