@@ -1,4 +1,5 @@
 //inc.Event Code
+//first image shown should generate a webpic
 $VER=2.76
 $include shortcuts.txt
 $imgroot=http://nlife.ca/sites/default/files
