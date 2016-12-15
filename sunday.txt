@@ -39,8 +39,8 @@ http://nlife.ca/meeting/2016-12-18
 
 $event 2016-12-25 Church on Christmas morning
 This year Christmas falls on a Sunday
--Same location: St. Joseph's
-11:00am-1:30pm
+ //http://nlife.ca/meeting/2016-12-25
+11:00am-1:30pm St. Joseph's School
 noimage
 -Many people will be away, or with family, but for those who want to gather we'll be having a shorter and more informal meeting on Christmas day
 -We'll watch a movie about Christmas, have some refreshments and be done by 1:30
