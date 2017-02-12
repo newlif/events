@@ -33,22 +33,22 @@ http://nlife.ca/meeting/2017-01-27
 -For a sneak peak of where we'll be staying you can look at the website here: http://www.crieffhills.com
 -For more information: socialevents@nlife.ca
 
-$event 2017-02-25-wbrunch Women's Brunch /////////////////////////////////////////
+$event 2017-02-18-wbrunch Women's Brunch /////////////////////////////////////////
 Speaker/topic TBA
-http://nlife.ca/meeting/2017-02-25
-10:30am-12:30pm Ruth's - 323 Richmond St E, Apt 417, M5A 4R3. Buzzer: 7798
+http://nlife.ca/meeting/2017-02-18
+10:30am-12:30pm Denese's - 575 Church Street, M4Y 1L5
 noimage
 -Join us for our monthly women's brunch! After having delicious food, we'll worship together, learn together, laugh together, pray for and encourage one another.
--We'll be continuing our series 'Arise', responding to how God was speaking to us at the women's retreat last month.
+-We'll be responding to how God was speaking to us at the women's retreat last month about being 'bold and courageous'.
 -We look forward to seeing you there!
 
 $event 2017-03-25-wbrunch Women's Brunch /////////////////////////////////////////
 Speaker/topic TBA
 http://nlife.ca/meeting/2017-03-25
-10:30am-12:30pm Location TBA
+10:30am-12:30pm Ruth's - 323 Richmond Street East, M5A 4R3, Apt 417 (Buzzer: 7798)
 noimage
 -Join us for our monthly women's brunch! After having delicious food, we'll worship together, learn together, laugh together, pray for and encourage one another.
--We'll be continuing our series 'Arise'.
+-We'll be continuing to explore how we can be bold and courageous, in response to how God has been speaking to us since the women's retreat in January.
 -We look forward to seeing you there!
 
 $event 2017-04-22-wbrunch Women's Brunch /////////////////////////////////////////
@@ -57,7 +57,7 @@ http://nlife.ca/meeting/2017-04-22
 10:30am-12:30pm Location TBA
 noimage
 -Join us for our monthly women's brunch! After having delicious food, we'll worship together, learn together, laugh together, pray for and encourage one another.
--We'll be continuing our series 'Arise'.
+-We'll be continuing to explore how we can be bold and courageous, in response to how God has been speaking to us since the women's retreat in January.
 -We look forward to seeing you there!
 
 //end
