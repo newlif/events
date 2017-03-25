@@ -112,7 +112,9 @@ $news={
   -*Time:* ${etime$ev_id}
   -*Place:* ${place$ev_id}
   $if ${evurl$ev_id}
-    -[[${evurl$ev_id} More info]]
+    $if !$nolinks
+      -[[${evurl$ev_id} More info]]
+    $endif
   $endif
   $pop $ol_style
   $pop $ul_style
@@ -131,10 +133,12 @@ $showpic= //just exists to get parameters
 
 $parameters $upcoming ev_id
 $upcoming={
-  $if ${evurl$ev_id}
-    -$ev_id.monthdate(): [[${evurl$ev_id} ${title$ev_id}]]
-  $else
-    -$ev_id.monthdate(): *${title$ev_id}*
+  $if !$nolinks
+    $if ${evurl$ev_id}
+      -$ev_id.monthdate(): [[${evurl$ev_id} ${title$ev_id}]]
+    $else
+      -$ev_id.monthdate(): *${title$ev_id}*
+    $endif
   $endif
 }
 
