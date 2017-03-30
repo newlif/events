@@ -57,6 +57,14 @@ $event={
   $endif
 }
 
+$parameters $eventend ev_id enddate endtime
+$eventend={
+  $setval ${enddate$ev_id}=$enddate
+  $if $endtime
+    $setval ${endtime$ev_id}=$endtime
+  $endif
+}
+
 $parameters $showtab ev_id
 $showtab={
   ..<span style="color:black; font-weight:normal;">$ev_id</span> ${title$ev_id} _on $ev_id.yeardate()_
@@ -94,7 +102,11 @@ $news={
   $endif
   $notitle=FALSE
   $if ${summa$ev_id}
-    *${summa$ev_id}*
+    $if $MAILGUN
+      -${summa$ev_id}
+    $else
+      *${summa$ev_id}*
+    $endif
   $endif
   $if $showpic_x
     $pic $showpic_x $showpic_y ${imgid$ev_id} ${imgde$ev_id}
@@ -165,8 +177,18 @@ $parameters $slide ev_id datex_line
 $slide={
   {${title$ev_id} $datex_line
   *${summa$ev_id}*
-  $customdatefmt=%A %Eb %-d
-  -*When:* $ev_id.customdate() ${etime$ev_id}
+  $customdatefmt=%Ea %Eb %-d
+  $if ${enddate$ev_id}
+    $if ${endtime$ev_id}
+      -*When:* $ev_id.customdate() ${etime$ev_id} -- ${enddate$ev_id}.customdate() ${endtime$ev_id}
+    $elseif ${etime$ev_id}
+      -*When:* $ev_id.customdate() -- ${enddate$ev_id}.customdate() (${etime$ev_id})
+    $else
+      -*When:* $ev_id.customdate() -- ${enddate$ev_id}.customdate()
+    $endif
+  $else
+    -*When:* $ev_id.customdate() ${etime$ev_id}
+  $endif
   -*Where:* ${place$ev_id}
   ${descr$ev_id}
   //$if ${imgid$ev_id}!=noimage
