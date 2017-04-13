@@ -151,6 +151,8 @@ $upcoming={
     $else
       -$ev_id.monthdate(): *${title$ev_id}*
     $endif
+  $else
+    -$ev_id.monthdate(): *${title$ev_id}*
   $endif
 }
 
