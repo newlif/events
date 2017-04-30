@@ -51,5 +51,13 @@ http://custom.cvent.com/7BEC9C1789734BEC999646CCB01B99BF/pix/df469bd841e148f0a29
 //-Be _transformed_ in your thinking re issues facing society.
 -A _challenging_ week of teaching, delivered by leading thinkers, plus fellowship, discussion, prayer, and worship.
 
+$event 2017-05-07-walk Walk in High Park
+Walk after church in the beatiful park not far away
+
+"1:30-5:00pm" High Park
+
+-Everyone is invited
+-A short TTC ride from the church
+
 //end
 
