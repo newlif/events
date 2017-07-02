@@ -30,8 +30,15 @@ noimage
 -Or meet up with us by Keele subway station
 
 $event 2017-07-15-dayout Newlife Day Out /////////////////////////////////////////
-Day out in High Park
+Day out at the Beach
 http://nlife.ca/meeting/2016-07-15
+11:00am-4:00pm The Beach
+noimage
+-More details to come
+
+$event 2017-08-12-dayout Newlife Day Out /////////////////////////////////////////
+Day out in High Park
+http://nlife.ca/meeting/2016-08-12
 11:00am-4:00pm High Park
 noimage
 -More details to come
