@@ -23,7 +23,7 @@ noimage
 
 $event 2017-05-07-walk Walk in High Park /////////////////////////////////////////
 Walk after church in the beatiful park not far away
-http://nlife.ca/meeting/2016-05-07
+http://nlife.ca/meeting/2017-05-07
 2:30-4:30pm A short TTC or cycle ride from the church
 noimage
 -Gather after the church meal to go on the TTC
@@ -31,7 +31,7 @@ noimage
 
 $event 2017-07-15-dayout Newlife Day Out at the Beach /////////////////////////////////////////
 Join us for a day out at Woodbine Beach
-http://nlife.ca/meeting/2016-07-15
+http://nlife.ca/meeting/2017-07-15
 11:00am-4:00pm Woodbine Beach
 https://s3-media1.fl.yelpcdn.com/bphoto/Nnj36J7BsV-8BJ3-xyBerg/ls.jpg
 -We have reserved picnic area #2 which is near the Asbridges Bay parking--the west (right) end of the beach.
@@ -40,7 +40,7 @@ https://s3-media1.fl.yelpcdn.com/bphoto/Nnj36J7BsV-8BJ3-xyBerg/ls.jpg
 
 $event 2017-08-12-dayout Newlife Day Out in High Park /////////////////////////////////////////
 Join us for a day out in High Park
-http://nlife.ca/meeting/2016-08-12
+http://nlife.ca/meeting/2017-08-12
 11:00am-4:00pm High Park picnic spot #24
 http://nlife.ca/sites/default/files/high_park.jpg High Park
 -*TTC:* Subway to High Park (Bloor line)
