@@ -144,5 +144,30 @@ noimage
 -Once a month, immediately after church, we're going to get together for a time of mutual support (with refreshments)
 -Come and join us for our kick-off meeting (and leave whenever you need to)
 
+$event 2017-11-05-food Bring & share meal after church  /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and eat together
+http://nlife.ca/signup/2017-11-05
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-Don't forget [[/signup/2017-11-05 to sign up to bring something]].
+-If you have something you like to make or a dish that reminds you of home please make it so we can all enjoy.
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+
+$event 2017-12-03-food Early Christmas bring & share meal after church  /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and eat together
+http://nlife.ca/signup/2017-12-03
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-Don't forget [[/signup/2017-12-03 to sign up to bring something]].
+-If you have something you like to make or a dish that reminds you of home please make it so we can all enjoy.
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2017-12-03-kids New Life Kids Christmas Presentation  /////////////////////////////////////////
+TBC
+http://nlife.ca/meeting/2017-12-03
+"after worship" St. Joseph's auditorium
+TBC
+
 //end
 
