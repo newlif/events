@@ -159,8 +159,8 @@ Monthly after-church gathering for students at Newlife
 "immediately after church" Upstairs in room 307
 noimage
 -If you're a student who comes to Newlife then there's great news for you
--Once a month, immediately after church, we're going to get together for a time of mutual support (with refreshments)
--Come and join us for our kick-off meeting (and leave whenever you need to)
+-Once a month, immediately after church, we get together for a time of mutual support (with refreshments)
+-Come and join us for second meeting (and leave whenever you need to)
 
 $event 2017-12-03-food Early Christmas bring & share meal after church  /////////////////////////////////////////
 This Sunday everyone's welcome to stay after church and eat together
