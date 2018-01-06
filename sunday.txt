@@ -153,15 +153,6 @@ http://nlife.ca/signup/2017-11-05
 -If you have something you like to make or a dish that reminds you of home please make it so we can all enjoy.
 -Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
 
-$event 2017-11-12-student Student after-church fellowship /////////////////////////////////////////
-Monthly after-church gathering for students at Newlife
-""
-"immediately after church" Upstairs in room 307
-noimage
--If you're a student who comes to Newlife then there's great news for you
--Once a month, immediately after church, we get together for a time of mutual support (with refreshments)
--Come and join us for second meeting (and leave whenever you need to)
-
 $event 2017-12-03-food Early Christmas bring & share meal after church  /////////////////////////////////////////
 This Sunday everyone's welcome to stay after church and eat together
 http://nlife.ca/signup/2017-12-03
@@ -171,20 +162,21 @@ http://nlife.ca/signup/2017-12-03
 -If you have something you like to make or a dish that reminds you of home please make it so we can all enjoy.
 -Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
 
-$event 2017-12-10-student Student after-church fellowship /////////////////////////////////////////
-Monthly after-church gathering for students at Newlife (this month with yummy scones)
-http://nlife.ca/meeting/2017-12-10
-"Immediately after church" Upstairs in room 307
-noimage
--If you're a student who comes to Newlife then come for a time of mutual support (with refreshments) and leave whenever you need to.
--A cafe is sponsoring us with yummy, yummy scones!
-
 $event 2017-12-03-kids New Life Kids Christmas Presentation  /////////////////////////////////////////
 TBA
 http://nlife.ca/meeting/2017-12-03
 "after worship" St. Joseph's auditorium
 noimage
 TBA
+
+$event 2018-01-07-food Kicking off the New Year with a Bring & share meal  /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and eat together
+http://nlife.ca/signup/2018-01-07
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-Don't forget [[/signup/2018-01-07 to sign up to bring something]].
+-If you have something you like to make or a dish that reminds you of home please make it so we can all enjoy.
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
 
 //end
 
