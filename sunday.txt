@@ -187,7 +187,7 @@ noimage
 -Once a month, immediately after church, we're going to get together for a time of mutual support (with refreshments)
 -Come and join us for our kick-off meeting (and leave whenever you need to)
 
-$event 2018-02-04-food Kicking off the New Year with a Bring & share meal  /////////////////////////////////////////
+$event 2018-02-04-food Bring & share meal  /////////////////////////////////////////
 This Sunday everyone's welcome to stay after church and eat together
 http://nlife.ca/signup/2018-02-04
 "after church" St. Joseph's Cafeteria
@@ -205,7 +205,7 @@ noimage
 -Once a month, immediately after church, we're going to get together for a time of mutual support (with refreshments)
 -Come and join us for our kick-off meeting (and leave whenever you need to)
 
-$event 2018-03-04-food Kicking off the New Year with a Bring & share meal  /////////////////////////////////////////
+$event 2018-03-04-food Bring & share meal  /////////////////////////////////////////
 This Sunday everyone's welcome to stay after church and eat together
 http://nlife.ca/signup/2018-03-04
 "after church" St. Joseph's Cafeteria
@@ -214,7 +214,7 @@ http://nlife.ca/signup/2018-03-04
 -If you have something you like to make or a dish that reminds you of home please make it so we can all enjoy.
 -Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
 
-$event 2018-04-01-food Kicking off the New Year with a Bring & share meal  /////////////////////////////////////////
+$event 2018-04-01-food Bring & share meal  /////////////////////////////////////////
 This Sunday everyone's welcome to stay after church and eat together
 http://nlife.ca/signup/2018-04-01
 "after church" St. Joseph's Cafeteria
@@ -223,7 +223,7 @@ http://nlife.ca/signup/2018-04-01
 -If you have something you like to make or a dish that reminds you of home please make it so we can all enjoy.
 -Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
 
-$event 2018-05-06-food Kicking off the New Year with a Bring & share meal  /////////////////////////////////////////
+$event 2018-05-06-food Bring & share meal  /////////////////////////////////////////
 This Sunday everyone's welcome to stay after church and eat together
 http://nlife.ca/signup/2018-05-06
 "after church" St. Joseph's Cafeteria
