@@ -203,7 +203,7 @@ Monthly after-church gathering for students at Newlife
 noimage
 -If you're a student who comes to Newlife then there's great news for you
 -Once a month, immediately after church, we're going to get together for a time of mutual support (with refreshments)
--Come and join us for our kick-off meeting (and leave whenever you need to)
+-Come and join us for a time of prayer and sharing (and leave whenever you need to)
 
 $event 2018-03-04-food Bring & share meal  /////////////////////////////////////////
 This Sunday everyone's welcome to stay after church and eat together
