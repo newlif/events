@@ -51,5 +51,24 @@ http://custom.cvent.com/7BEC9C1789734BEC999646CCB01B99BF/pix/df469bd841e148f0a29
 //-Be _transformed_ in your thinking re issues facing society.
 -A _challenging_ week of teaching, delivered by leading thinkers, plus fellowship, discussion, prayer, and worship.
 
+
+$event 2018-03-03-cap CAP Money Course Day 1
+Newlife Church runs their first outreach CAP money course!
+http://nlife.ca/meeting/2018-03-03
+"12:30-3:30pm" Our Lady of Lourdes School,  444 Sherbourne St, Toronto, ON M4X 1K2, at Sherbourne & Wellesley
+https://capuk.org/images/site/logo.png
+-CAP is a program, offered free of charge, to members of the church and to the public to help people reduce the stress and waste associated with money management.
+-It's not financial advice; it's tools, offered from peer to peer, to help us work with our money in a more positive way. 
+
+
+$event 2018-03-10-cap CAP Money Course Day 2
+Newlife Church runs their first outreach CAP money course!
+http://nlife.ca/meeting/2018-03-10
+"12:30-3:30pm" Our Lady of Lourdes School,  444 Sherbourne St, Toronto, ON M4X 1K2, at Sherbourne & Wellesley
+https://capuk.org/images/site/logo.png
+-CAP is a program, offered free of charge, to members of the church and to the public to help people reduce the stress and waste associated with money management.
+-It's not financial advice; it's tools, offered from peer to peer, to help us work with our money in a more positive way. 
+
 //end
+
 
