@@ -1,0 +1,211 @@
+//inc.Prayer Meetings
+$VER=2.75 
+$showtitle
+
+$event 2016-09-29-prayer Church Prayer Meeting tonight /////////////////////////////////////////
+Monthly prayer meeting for the whole church.
+http://nlife.ca/meeting/2016-09-29
+7:30-9:00pm $fountains_full
+noimage
+_"And pray always in the Spirit with all kinds of prayers and requests... praying for all the Lord’s people." Eph 6:18_\n
+-We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.\n-Everyone is welcome!
+
+$event 2016-10-27-prayer Church Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting for the whole church.
+http://nlife.ca/meeting/2016-10-27
+7:30-9:00pm $fountains_full
+noimage
+_"And pray always in the Spirit with all kinds of prayers and requests... praying for all the Lord’s people." Eph 6:18_
+-We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.
+-Everyone is welcome!
+
+$event 2016-11-10-wprayer Women's Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting just for the ladies.
+http://nlife.ca/meeting/2016-11-10
+7:30pm-9:30pm $stjosephs (2nd floor classroom)
+noimage
+-God clearly spoke to the women saying we should ARISE! One way we felt to answer the call is to pray together more, according to the Word of God, and to encourage one another in using our spiritual gifts.
+-As we pray for the church, the city and one another, God speaks and encourages us.
+-Come join us if you want God to be at work in your life and in the life of people around you. 
+
+$event 2016-12-01-prayer Church Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting for the whole church.
+http://nlife.ca/meeting/2016-10-27
+7:30-9:00pm $fountains_full
+noimage
+_"And pray always in the Spirit with all kinds of prayers and requests... praying for all the Lord’s people." Eph 6:18_
+-We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.
+-Everyone is welcome!
+
+$event 2016-12-15-wprayer Women's Prayer Meeting Cancelled /////////////////////////////////////////
+No women's prayer meeting tonght
+http://nlife.ca/meeting/2016-12-15
+Cancelled $SP
+noimage
+$SP
+
+$event 2016-12-29-prayer Church Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting for the whole church.
+http://nlife.ca/meeting/2016-12-29
+7:30-9:00pm $fountains_full
+noimage
+_"And pray always in the Spirit with all kinds of prayers and requests... praying for all the Lord’s people." Eph 6:18_
+-We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.
+-Everyone is welcome!
+
+$event 2017-01-19-prayer Church Prayer Meeting /////////////////////////////////////////
+Join us as we start the New Year with prayer!
+http://nlife.ca/meeting/2017-01-19
+7:30-9:00pm $stjosephs (2nd floor classroom)
+noimage
+-Let's kick-off the first prayer meeting of the year 2017 with a special time of prayer as a family!
+-Luke and Andrew will share about the vision of Newlife and where we feel God is leading us in this new season. We will worship him together and Hle will lead us to pray for our church and our city.
+-If you have children, come with them (and maybe a board game or two) -- we'll have a couple of people looking after them!
+-You are all welcome!
+
+$event 2017-02-16-wprayer Women's Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting just for the ladies.
+http://nlife.ca/meeting/2017-02-16
+7:30-9:00pm Ruth's - Apt 417, 323 Richmond Street E, M5A 4R3 (buzzer: 7798)
+noimage
+-Come join us if you want God to be at work in your life and in the life of people around you.
+
+$event 2017-03-02-prayer Church Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting for the whole church.
+http://nlife.ca/meeting/2017-03-02
+7:30-9:00pm $fountains_full
+noimage
+-We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.
+-Everyone is welcome!
+
+$event 2017-03-16-wprayer Women's Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting just for the ladies.
+http://nlife.ca/meeting/2017-03-16
+7:30-9:00pm Ruth's - Apt 417, 323 Richmond Street E, M5A 4R3 (buzzer: 7798)
+noimage
+-As we pray for the church, the city and one another, God speaks and encourages us.
+-Come join us if you want God to be at work in your life and in the life of people around you.
+
+$event 2017-03-30-prayer Church Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting for the whole church.
+http://nlife.ca/meeting/2017-03-30
+7:30pm-9:30pm $stjosephs (2nd floor classroom)
+noimage
+-We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.
+-Everyone is welcome!
+
+$event 2017-04-13-wprayer Women's Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting just for the ladies.
+http://nlife.ca/meeting/2017-04-13
+7:30pm-9:30pm $stjosephs (2nd floor classroom)
+noimage
+-As we pray for the church, the city and one another, God speaks and encourages us.
+-Come join us if you want God to be at work in your life and in the life of people around you.
+
+$event 2017-04-27-prayer Church Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting for the whole church.
+http://nlife.ca/meeting/2017-04-27 
+7:30pm-9:30pm Ruth's - Apt 417, 323 Richmond Street E, M5A 4R3 (buzzer: 2560)
+noimage
+-We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.
+-Everyone is welcome!
+
+$event 2017-05-18-wprayer Women's Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting just for the ladies.
+http://nlife.ca/meeting/2017-05-18
+7:30pm-9:30pm Ruth's - Apt 417, 323 Richmond Street E, M5A 4R3 (buzzer: 2560)
+noimage
+-We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.
+-Everyone is welcome!
+
+$event 2017-06-01-prayer Church Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting for the whole church.
+http://nlife.ca/meeting/2017-06-01 
+7:30pm-9:30pm $fountains_full
+noimage
+-We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.
+-Everyone is welcome!
+
+$event 2017-06-29-prayer Church Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting for the whole church.
+http://nlife.ca/meeting/2017-06-29 
+7:30pm-9:30pm $fountains_full
+noimage
+-We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.
+-Everyone is welcome!
+
+$event 2017-08-03-prayer Church Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting for the whole church.
+http://nlife.ca/meeting/2017-08-03 
+7:30pm-9:30pm $fountains_full
+noimage
+-We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.
+-Everyone is welcome!
+
+$event 2017-08-31-prayer Church Prayer Meeting /////////////////////////////////////////
+Special Prayer Meeting for the New Season.
+http://nlife.ca/meeting/2017-08-03 
+7:30pm-9:30pm $fountains_full
+noimage
+-We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.
+-Everyone is welcome!
+
+$event 2017-09-28-prayer Church Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting for the whole church.
+http://nlife.ca/meeting/2017-09-28
+7:30pm-9:30pm $fountains_full
+noimage
+-We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.
+-Everyone is welcome!
+
+$event 2017-10-26-prayer Church Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting for the whole church.
+http://nlife.ca/meeting/2017-10-26
+7:30pm-9:30pm $fountains_full
+noimage
+-We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.
+-Everyone is welcome!
+
+$event 2017-11-30-prayer Church Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting for the whole church.
+http://nlife.ca/meeting/2017-11-30
+7:30pm-9:30pm $fountains_full
+noimage
+-We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.
+-Everyone is welcome!
+
+$event 2018-02-01-prayer Church Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting for the whole church.
+http://nlife.ca/meeting/2018-02-01
+7:30pm-9:30pm $stjosephs (2nd floor classroom)
+noimage
+-We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.
+-Everyone is welcome!
+
+$event 2018-03-01-prayer Church Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting for the whole church.
+http://nlife.ca/meeting/2018-03-01
+7:30pm-9:30pm $stjosephs (2nd floor classroom)
+noimage
+-We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.
+-Everyone is welcome!
+
+$event 2018-03-29-prayer Church Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting for the whole church.
+http://nlife.ca/meeting/2018-03-29
+7:30pm-9:30pm $stjosephs (2nd floor classroom)
+noimage
+-We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.
+-Everyone is welcome!
+
+$event 2018-04-26-prayer Church Prayer Meeting /////////////////////////////////////////
+Monthly prayer meeting for the whole church.
+http://nlife.ca/meeting/2018-04-26
+7:30pm-9:30pm $stjosephs (2nd floor classroom)
+noimage
+-We have a God who loves it when we talk to him and make requests of him, and he’s told us to do it together as a church family--so let’s do it! Prayer meetings are always amazing, lively times full of thankfulness and intercession for our church, our city and our world.
+-Everyone is welcome!
+
+
+//end
+

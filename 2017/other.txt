@@ -1,0 +1,74 @@
+//inc.Other Events
+$VER=2.76
+$showtitle
+
+$event 2016-10-29-nf Great Lakes Region Conference /////////////////////////////////////////
+A morning together for Newfrontiers churches with a special focus on persevering through difficulties
+http://new-frontiers.ca/content/great-lakes-region-conference-2016
+9:30am-1:00pm Milton Bible Church, 200 Main St. E. Milton ON L9T 1N8
+noimage
+-Session 1: Roger Bye - A Faithful God
+-Session 2: David Campbell - Perseverance
+
+$event 2016-11-26-cap CAP Money Course Training /////////////////////////////////////////
+Training course for those who what to join CAP Money Course team at Newlife.
+http://nlife.ca/meeting/2016-11-26-cap
+10:00am-3:30pm The Peoples Church, 374 Sheppard Ave E, North York, ON M2N 3B6
+https://capuk.org/images/site/logo.png
+-At New Life we are soon to launch the Christians Against Poverty (CAP) Money Course - a simple but incredibly effective course teaching money management to help people get in control of their finances and get out of debt. Back in 2013, Newlife was the [[https://capcanada.org/blog/training-even-more-churches first church in Canada to support CAP]] and now we are in a position to run the course.
+-This training is for those who want to be a money coach on the course. See the [[https://capcanada.org/public/documents/CAP_Money_Info.pdf All you need to know booklet]].
+-Registration opens at 9.30am, training runs from 10.00am - 3.30pm
+-Lunch and refreshments provided. Dietary restrictions can be accommodated.
+-Contact Elliot if interested: ewc@sandon.ca or (519) 387-7190
+-If you've already expressed interest, Elliot will be in touch via email soon!
+-Travel will be co-ordinated close to the time.
+
+$event 2016-12-10-choir UofT Gospel Choir
+Last chance to go to this great event
+http://www.utgc.org/
+"7:00pm (doors open 6:30)" Grant Ame Church, 2029 Gerrard St. E. Toronto ON M4E 2B3
+2016-12-ut-xmas-choir.jpg 7pm on Saturday
+-An uplifting evening of singing praise to God
+-Come out and support our students for the final event in this series
+
+$eventend 2017-04-22-cap 2017-04-29
+$event 2017-04-22-cap CAP Money Course
+Sign up for Newlife's first course
+http://nlife.ca/meeting/2017-04-22
+"2:00-5:00pm" St. Joseph's school (where we meet Sundays)
+https://capuk.org/images/site/logo.png
+-This first course is especially for Newlife (although anyone is welcome)
+//-Volunteers for childcare?
+
+$eventend 2017-05-01-cli 2017-05-05
+$event 2017-05-01-cli CLI training week
+Bursaries available to cover the cost!
+http://www.christianlegalfellowship.org/cli/
+"8:00am-5:00pm" London, ON
+http://custom.cvent.com/7BEC9C1789734BEC999646CCB01B99BF/pix/df469bd841e148f0a2920e795d9173a4.jpg
+-Designed to _equip_ students and others to articulate a robust Biblical worldview in law, politics, education, media, arts, medicine, and business.
+-Be _trained_ to engage peers and professors in discussions.
+//-Be _transformed_ in your thinking re issues facing society.
+-A _challenging_ week of teaching, delivered by leading thinkers, plus fellowship, discussion, prayer, and worship.
+
+
+$event 2018-03-03-cap CAP Money Course Day 1
+Newlife Church runs their first outreach CAP money course!
+http://nlife.ca/meeting/2018-03-03
+"1:00-4:00pm" Our Lady of Lourdes School,  444 Sherbourne St, Toronto, ON M4X 1K2, at Sherbourne & Wellesley
+https://capuk.org/images/site/logo.png
+-CAP is a program, offered free of charge, to members of the church and to the public to help people reduce the stress and waste associated with money management.
+-It's not financial advice; it's tools, offered from peer to peer, to help us work with our money in a more positive way. 
+
+
+$event 2018-03-10-cap CAP Money Course Day 2
+Newlife Church runs their first outreach CAP money course!
+http://nlife.ca/meeting/2018-03-10
+"1:00-4:00pm" Our Lady of Lourdes School,  444 Sherbourne St, Toronto, ON M4X 1K2, at Sherbourne & Wellesley
+https://capuk.org/images/site/logo.png
+-CAP is a program, offered free of charge, to members of the church and to the public to help people reduce the stress and waste associated with money management.
+-It's not financial advice; it's tools, offered from peer to peer, to help us work with our money in a more positive way. 
+
+//end
+
+

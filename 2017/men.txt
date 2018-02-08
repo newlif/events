@@ -1,0 +1,169 @@
+//inc.Men's Events
+$VER=2.75 
+$showtitle
+
+$event 2016-10-15-mens Men's Brunch /////////////////////////////////////////
+Special Speaker this month: David Campbell
+http://nlife.ca/meeting/2016-10-15
+10:30am-12:30pm $smiths
+2016-04-09-mens-brunch.jpg
+-All Newlife men are welcome!
+-Suggested contribution: $5
+
+$event 2016-12-02-challenge Update: The Challenge Event for men /////////////////////////////////////////
+New date, cost and location: Now Friday evening & Saturday and only $25.
+http://challenge.new-frontiers.ca/ 
+"evening--Sat afternoon (Dec 3)" Niagara Community Church
+http://challenge.new-frontiers.ca/images/challenge-2016.jpg Be challenged!
+-The Challenge is designed to be an intense event where young men can find a greater place in God.
+-This event is designed for men aged 16 through 35.
+-The cost will be $25 everything included.\n-Contact Dan if you are interested
+
+$event 2016-11-12-mens Men's Brunch /////////////////////////////////////////
+Elliot will be sharing this month. This is a great opportunity to build relationships and grow as men.
+http://nlife.ca/meeting/2016-11-12
+10:30am-12:30pm $smiths
+2016-04-09-mens-brunch.jpg
+-All Newlife men are welcome!
+-Suggested contribution: $5
+
+$event 2016-12-10-mens Men's Brunch /////////////////////////////////////////
+Special Speaker this month: David Campbell
+http://nlife.ca/meeting/2016-12-10
+10:30am-12:30pm $smiths
+2016-04-09-mens-brunch.jpg
+-All Newlife men are welcome!
+-Suggested contribution: $5
+-Open to all men who come to Newlife, this is a great opportunity to build relationships and grow as men.
+
+$event 2017-01-14-mens Men's Brunch /////////////////////////////////////////
+Kickoff meeting for 2017
+http://nlife.ca/meeting/2017-01-14
+10:30am-12:30pm $smiths
+2016-04-09-mens-brunch.jpg
+-All Newlife men are welcome!
+-Suggested contribution: $5
+-Open to all men who come to Newlife, this is a great opportunity to build relationships and grow as men.
+
+$event 2017-02-10-mretreat Men's Retreat /////////////////////////////////////////
+_Places still available!_
+http://nlife.ca/meeting/2017-02-10
+"Friday Feb 10 6pm -- Sun Feb 12 8:30 am" Crief Hills Community, 7098 Concession 1, Puslinch, ON N0B 2J0
+http://www.crieffhills.com/userContent/banners/B9BB8E3A-D61F-A7B7-750E-4C02A61FDF52/c_banner_1.jpg
+-All Newlife men are welcome!
+-$50 Deposit, Total Cost $85
+-Make sure you get your Deposit to Dan
+//-Dan and Elliot are handling all the food!
+//-Looking for 3-4 vehicles to transport people (and the food)
+
+$event 2017-03-11-mens Men's Brunch /////////////////////////////////////////
+Speaker TBA
+http://nlife.ca/meeting/2017-03-11
+10:30am-12:30pm $smiths
+2016-04-09-mens-brunch.jpg
+-All Newlife men are welcome!
+-Suggested contribution: $5
+-Open to all men who come to Newlife, this is a great opportunity to build relationships and grow as men.
+
+$event 2017-04-08-mens Men's Brunch /////////////////////////////////////////
+Special Speaker this month: David Campbell
+http://nlife.ca/meeting/2017-04-08
+10:30am-12:30pm $smiths
+2016-04-09-mens-brunch.jpg
+-All Newlife men are welcome!
+-Suggested contribution: $5
+-Open to all men who come to Newlife, this is a great opportunity to build relationships and grow as men.
+
+$event 2017-05-13-mens Men's Brunch /////////////////////////////////////////
+Speaker TBA
+http://nlife.ca/meeting/2017-05-13
+10:30am-12:30pm $smiths
+2016-04-09-mens-brunch.jpg
+-All Newlife men are welcome!
+-Suggested contribution: $5
+-Open to all men who come to Newlife, this is a great opportunity to build relationships and grow as men.
+
+$event 2017-06-10-mens Men's Brunch /////////////////////////////////////////
+Speaker TBA
+http://nlife.ca/meeting/2017-06-10
+10:30am-12:30pm $smiths
+2016-04-09-mens-brunch.jpg
+-All Newlife men are welcome!
+-Suggested contribution: $5
+-Open to all men who come to Newlife, this is a great opportunity to build relationships and grow as men.
+
+$event 2017-10-14-mens Men's Brunch /////////////////////////////////////////
+Special Speaker this month: David Campbell
+http://nlife.ca/meeting/2017-10-14
+10:30am-12:30pm $smiths
+2016-04-09-mens-brunch.jpg
+-All Newlife men are welcome!
+-Suggested contribution: $5
+-Open to all men who come to Newlife, this is a great opportunity to build relationships and grow as men.
+
+$event 2017-11-11-mens Men's Brunch /////////////////////////////////////////
+Luke will be speaking this month on "Pursuing God together"
+http://nlife.ca/meeting/2017-11-11
+10:30am-12:30pm $smiths
+2016-04-09-mens-brunch.jpg
+-All Newlife men are welcome!
+-Suggested contribution: $5
+-Open to all men who come to Newlife, this is a great opportunity to build relationships and grow as men.
+
+$event 2017-12-16-mens Men's Brunch /////////////////////////////////////////
+Special Speaker this month: David Campbell
+http://nlife.ca/meeting/2017-12-16
+10:30am-12:30pm $smiths
+2016-04-09-mens-brunch.jpg
+-All Newlife men are welcome!
+-Suggested contribution: $5
+-Open to all men who come to Newlife, this is a great opportunity to build relationships and grow as men.
+
+$event 2018-01-20-mens Men's Brunch /////////////////////////////////////////
+Responding to Sunday's sermon on mobilizing the church
+http://nlife.ca/meeting/2018-01-20
+10:30am-12:30pm $smiths
+2016-04-09-mens-brunch.jpg
+-All Newlife men are welcome!
+-Suggested contribution: $5
+-Open to all men who come to Newlife, this is a great opportunity to build relationships and grow as men.
+
+$event 2018-02-10-mens Men's Brunch /////////////////////////////////////////
+Continuing with the theme of last month: mobilizing the church
+http://nlife.ca/meeting/2018-02-10
+10:30am-12:30pm $smiths
+2016-04-09-mens-brunch.jpg
+-All Newlife men are welcome!
+-Suggested contribution: $5
+-Open to all men who come to Newlife, this is a great opportunity to build relationships and grow as men.
+
+$event 2018-03-17-mens Men's Brunch /////////////////////////////////////////
+tba
+http://nlife.ca/meeting/2018-03-17
+10:30am-12:30pm $smiths
+2016-04-09-mens-brunch.jpg
+-All Newlife men are welcome!
+-Suggested contribution: $5
+-Open to all men who come to Newlife, this is a great opportunity to build relationships and grow as men.
+
+$event 2018-04-07-mens Men's Brunch /////////////////////////////////////////
+tba
+http://nlife.ca/meeting/2018-04-07
+10:30am-12:30pm $smiths
+2016-04-09-mens-brunch.jpg
+-All Newlife men are welcome!
+-Suggested contribution: $5
+-Open to all men who come to Newlife, this is a great opportunity to build relationships and grow as men.
+
+$event 2018-05-12-mens Men's Brunch /////////////////////////////////////////
+tba
+http://nlife.ca/meeting/2018-05-12
+10:30am-12:30pm $smiths
+2016-04-09-mens-brunch.jpg
+-All Newlife men are welcome!
+-Suggested contribution: $5
+-Open to all men who come to Newlife, this is a great opportunity to build relationships and grow as men.
+
+
+//end
+
