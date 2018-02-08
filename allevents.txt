@@ -6,5 +6,6 @@ $include prayer.txt
 $include social.txt
 $include women.txt
 $include men.txt
+$include training.txt
 $include other.txt
 
