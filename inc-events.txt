@@ -1,0 +1,7 @@
+//inc.Includes for Writeup
+$ID=$Id: writeup_inc.txt 192 2016-09-12 18:58:02Z andrew $
+$VER=2.76
+$include ../../../../git/events/eventcode.txt
+$include ../../../../git/events/2017/allevents.txt
+$include ../../../../git/events/allevents.txt
+
