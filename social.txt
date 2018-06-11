@@ -10,18 +10,11 @@ http://nlife.ca/sites/default/files/high_park_blossom.jpg
 -Meet at the North East corner of Bloor and Keele St, outside Keele subway station.
 -Contact Tom with any questions: 416-878-3235
 
-$event 2018-05-21-walk Walk in High Park /////////////////////////////////////////
-Walk in High Park on Victoria day Monday morning to see the cherry blossoms
-http://nlife.ca/meeting/2018-05-21
-11:00am High Park (outside Keele subway station)
-http://nlife.ca/sites/default/files/high_park_blossom.jpg
--Meet at the North East corner of Bloor and Keele St, outside Keele subway station.
--Contact Tom with any questions: 416-878-3235
-
 $event 2018-06-17-walk Walk in Rouge Valley + BBQ /////////////////////////////////////////
 Walk in Rouge Valley followed by a BBQ
 http://nlife.ca/meeting/2018-06-17
 02:00pm At Church
+noimage
 -We will have a shorter time of snacks after church
 -Rides will be organised for those who want a ride there.
 -Rouge Valley is a beautiful part of Toronto and one of the few protected sites near the city.
@@ -30,11 +23,15 @@ $event 2018-07-21-walk New Life Day Out! ///////////////////////////////////////
 Details TBA
 http://nlife.ca/meeting/2018-07-21
 tba
+noimage
+-More details coming
 
 $event 2018-08-11-walk New Life Day Out! /////////////////////////////////////////
 Details TBA
 http://nlife.ca/meeting/2018-08-11
 tba
+noimage
+-More details coming
 
 //end
 

@@ -103,9 +103,11 @@ http://nlife.ca/signup/2018-06-03
 -If you have something you like to make or a dish that reminds you of home please make it so we can all enjoy.
 -Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
 
-$event 2018-06-24-kids Kids Sunday Service  /////////////////////////////////////////
-This Sunday join us as the Kids help lead our service!
--The kids of NewLife will be led by Heather in a Service where we can show much we love and value them
+$event 2018-06-24-kids Celebrate Kids Sunday  /////////////////////////////////////////
+This Sunday we will be celebrating the importance of children to God
+http://nlife.ca/meeting/2018-06-24
+noimage
+-The kids of NewLife will be present and participating in the meeting, led by Heather
 -Especially important as some of these kids will be leaving us in July as their parents leave
 
 $event 2018-07-01-food Canada Day meal  /////////////////////////////////////////
