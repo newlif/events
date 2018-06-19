@@ -14,7 +14,7 @@ $event 2018-06-17-walk Walk in Rouge Valley + BBQ //////////////////////////////
 Walk in Rouge Valley followed by a BBQ
 http://nlife.ca/meeting/2018-06-17
 02:00pm At Church
-noimage
+http://nlife.ca/sites/default/files/rouge-valley.jpg
 -We will have a shorter time of snacks after church
 -Rides will be organised for those who want a ride there.
 -Rouge Valley is a beautiful part of Toronto and one of the few protected sites near the city.
