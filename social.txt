@@ -19,19 +19,24 @@ http://nlife.ca/sites/default/files/rouge-valley.jpg
 -Rides will be organised for those who want a ride there.
 -Rouge Valley is a beautiful part of Toronto and one of the few protected sites near the city.
 
-$event 2018-07-21-walk New Life Day Out! /////////////////////////////////////////
-Details TBA
+$event 2018-07-21-dayout Newlife Day Out at the Beach /////////////////////////////////////////
+Join us for a day out at Woodbine Beach
 http://nlife.ca/meeting/2018-07-21
-tba
-noimage
--More details coming
+11:00am-4:00pm Woodbine Beach
+https://s3-media1.fl.yelpcdn.com/bphoto/Nnj36J7BsV-8BJ3-xyBerg/ls.jpg
+-We have reserved picnic area #2 which is near the Asbridges Bay parking--the west (right) end of the beach.
+-Bring your own picnic food, and any beach games you want (frisbee etc.)/+There are volleyball nets, so if you have a volleyball, please bring it.
+-If you are driving and have lawn chairs / blankets then please bring them.
 
-$event 2018-08-11-walk New Life Day Out! /////////////////////////////////////////
-Details TBA
+$event 2018-08-11-dayout Newlife Day Out in High Park /////////////////////////////////////////
+Join us for a day out in High Park
 http://nlife.ca/meeting/2018-08-11
-tba
-noimage
--More details coming
+11:00am-4:00pm High Park picnic spot #24
+http://nlife.ca/sites/default/files/high_park.jpg High Park
+-*TTC:* Subway to High Park (Bloor line)
+-*Meeting Place:* picnic spot #24 (near the zoo)
+-*Food:* Bring your own picnic food (We'll have a BBQ available)
+-*Activities:* Bring any any beach games you want (frisbee, volleyball, etc.)
 
 //end
 
