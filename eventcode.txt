@@ -99,7 +99,7 @@ $news={
     $link=http://nlife.ca/email#$ev_id
   $endif
   $if !$notitle
-    ..${title$ev_id} $datex_line
+    ...${title$ev_id} $datex_line
   $endif
   $notitle=FALSE
   $if ${summa$ev_id}
