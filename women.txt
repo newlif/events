@@ -58,4 +58,21 @@ noimage
 -Join us for this month's women's gathering which is going to be a movie night
 -We look forward to seeing you there!
 
+$event 2018-10-20-wbrunch Women's Meeting /////////////////////////////////////////
+Speaker TBA
+http://nlife.ca/meeting/2018-10-20
+10:30am-12:30pm Location tba
+noimage
+-Join us for this month's women's gathering! After having a light snack, we'll worship together, learn together, laugh together, pray for and encourage one another. Please bring something to share!
+-We look forward to seeing you there!
+
+$event 2018-11-24-wbrunch Women's Meeting /////////////////////////////////////////
+Speaker TBA
+http://nlife.ca/meeting/2018-11-24
+10:30am-12:30pm Location tba
+noimage
+-Join us for this month's women's gathering! After having a light snack, we'll worship together, learn together, laugh together, pray for and encourage one another. Please bring something to share!
+-We look forward to seeing you there!
+
+
 //end
