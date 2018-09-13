@@ -50,12 +50,12 @@ noimage
 -Join us for this month's women's gathering! After having a light snack, we'll worship together, learn together, laugh together, pray for and encourage one another. Please bring something to share!
 -We look forward to seeing you there!
 
-$event 2018-09-21-women Women's Movie Night /////////////////////////////////////////
-This month's women's gathering
-http://nlife.ca/meeting/2018-09-21
-7:30pm-9:30pm Location $fountains
+$event 2018-09-22-wbrunch Women's Meeting /////////////////////////////////////////
+We look forward to Claire sharing her testimony
+http://nlife.ca/meeting/2018-09-22
+10:30am-12:30pm $quicks
 noimage
--Join us for this month's women's gathering which is going to be a movie night
+-Join us for this month's women's gathering! After having a light snack, we'll worship together, learn together, laugh together, pray for and encourage one another. Please bring something to share!
 -We look forward to seeing you there!
 
 $event 2018-10-20-wbrunch Women's Meeting /////////////////////////////////////////
