@@ -18,7 +18,7 @@ $else
   $quicks=Braden & Claire's (Bay & College) $BR[[/location/763_Bay 763 Bay Street, Unit 2101 (Buzzer 568 or 917), M5G 2R3]]
   $smiths=Dan & Heather's (St. Clair & Dufferin) $BR[[/location/64Earlsdale 64 Earlsdale Ave]]
   $stjosephs=[[/location/st_josephs St. Joseph's College]] at 74 Wellesley St West (just west of Bay)
-  $wicks=*Suchiththa & Ruth's*\n -39 Acores Ave  M6G 4B4 (Ossington & Dupont)\n -10min north of Ossington subway
+  $wicks=*Suchiththa & Ruth's*\n -39 Acores Ave  M6G 4B4 (Ossington & Dupont)\n -10min walk north of Ossington subway
 $endif
 $modify($sun).whenunset(Sunday)
 $bumos=Bumo and Hle's (Near Bloor/Broadview subway)
