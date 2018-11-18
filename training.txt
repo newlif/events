@@ -93,7 +93,7 @@ $event 2018-10-11-theol Bible Training Night ///////////////////////////////////
 Biblical Interpretation pt1: series of 4 Thursday evenings
 http://nlife.ca/meeting/2018-10-11
 6:00/6:30pm-10:00pm $fountains
-noimage
+noimagersync
 -6:00-6:30 arrive
 -6:30-7:00 Pizza provided (or bring your own food)
 -7:00-10:00 Teaching 
@@ -121,7 +121,8 @@ What is God saying to me?
 http://nlife.ca/meeting/2018-11-15
 6:30pm-10:00pm $wicks
 noimage
--Biblical Interpretation part 4
+-6:30-7:00 Eat together (food provided)
+-7:00-10:00 Teaching
 
 //end
 
