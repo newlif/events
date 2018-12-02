@@ -1,0 +1,44 @@
+//canonical version 2010
+$ID=$Id: inc_non_s5.txt 892 2015-11-22 03:18:22Z Newlife $
+$VER=1.45
+////////////// S5
+$metatag2=name="subtitle" content="$subtitle"
+$metatag3=name="author" content="$author"
+$metatag4=name="company" content="$company"
+$imgnoprint=----${NL}$set $mediatype1=link [[$imgbase$img $imgname]]${NL}----
+$imgfullscreen=$imgnoprint
+$parameters $backgroundimage img_url imgname_line
+$backgroundimage=$set $mediatype1=link [[$imgbase$img_url [[$img_url $imgname_line]]]]$sourcelink
+$imgfull=$imgnoprint
+$image=$set $mediatype1=link [[$imgbase$img [[$img $imgname]]]]
+$styletag1=table.slide {border:2px solid #999; width:auto;} table.slide h1 {border-bottom:none;}
+$styletag2=table.imgslide img, table.slide img {width:200px;} .notes {color:darkgreen !important; font-style:italic;}
+{=<table class="slide"><tr><td>|}=</td></tr></table>
+$imgslide=<table class="slide imgslide"><tr><td><h1>$imgname</h1>$set $mediatype1=link [[$imgbase$img [[$img $imgname]]]]</td></tr></table>
+$iframeslide=<hr /><h1>$slidename</h1>
+@=|@=
+$notes=|$enotes=
+$incremental=
+$incremental2=
+$notincremental=
+$COLUMN=
+$NOCOLUMN=
+$clickhere=..sermons index at <^http://nlife.ca/audio^>
+$postamble=<p style="text-align:right;font-size:small;color:#ccc">_Updated on $DATE  by ${author}_</p>
+$pagebreak=---
+///////////////////// Links style
+//$if $drupal
+//$httpbase=http://nlife.ca/sermons/$filepath/
+//$download=<=a_class1 nolink><^http://nlife.ca/audio/download/$downloadlink^<img src="http://nlife.ca/images/download.jpg" alt="download" />^>
+//$xlink=http://nlife.ca/sermons/external.png
+//$else
+//$download=
+//$xlink=$rootpath/external.png
+//$endif
+$if $online
+  $xlink=http://nlife.ca/sermons/external.png
+$else
+  $a_attr=target="_newtab"
+$endif
+$inline=TRUE
+

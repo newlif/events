@@ -1,0 +1,158 @@
+//inc.Include file for sermons using reveal.js
+$VER=2.5
+$if $online // could use $ifexists to detect if local file available, but that would mean recompile on the server
+  $reveal=http://lab.hakim.se/reveal-js
+$else
+  $reveal=$rootpath/reveal
+$endif
+$linktag0=rel="stylesheet" href="$reveal/css/reveal.min.css"
+$linktag1=rel="stylesheet" href="$reveal/css/theme/$theme.css" id="theme"
+$linktag2=rel="stylesheet" href="$reveal/lib/css/zenburn.css" //Code syntax highlighting
+
+$scripttag0_attr=type="text/javascript" src="$reveal/lib/js/html5shiv.js"
+
+$modify($theme).whenunset(serif)
+$firstslide=TRUE
+$topslide=TRUE       // top of column, or single
+$startcolumn=FALSE  // slides are in columns
+$inslidecolumn=FALSE // currently in a column
+$COLUMN=$set $topslide=TRUE $set $startcolumn=TRUE
+$NOCOLUMN=$set $topslide=TRUE // only needed for first slide after a column
+
+$parameters { slide_line
+${:sCURL}={
+  $if $firstslide // first slide of presentation
+    $firstslide=FALSE
+    <section>
+    .$slide_line
+  $else
+    $if $topslide // slide is not under another, so check in case ending a column
+      $topslide=FALSE
+      $if $inslidecolumn
+        $inslidecolumn=FALSE
+        </aside></section><section>
+      $else
+        </aside><section>
+      $endif
+      $if $startcolumn
+        $startcolumn=FALSE
+        <section>
+        $inslidecolumn=TRUE
+      $endif
+    $else
+      </aside><section>
+    $endif
+    ..$slide_line
+  $endif
+}
+
+}=</section><aside class="notes">
+%=<aside class="notes">||%=</aside>
+
+$parameters $iframe ifr_filename ifr_title_line
+$iframe={
+   $if $topslide // slide is not under another, so check in case ending a column
+     $topslide=FALSE
+     $if $inslidecolumn
+       $inslidecolumn=FALSE
+       </aside></section>
+     $else
+       </aside>
+     $endif
+     $if $startcolumn
+       $startcolumn=FALSE
+       <section>
+       $inslidecolumn=TRUE
+     $endif
+     <section class="iframeslide">
+   $else
+     </aside><section class="iframeslide">
+   $endif
+  ...$ifr_title_line
+  <iframe src="$ifr_filename.html$ifanchor" width="100%" height="$vframe"><p>Your browser does not support iframes, [[$ifr_filename.html$ifanchor click here]].</p></iframe> //$continue
+  </section><aside class="notes">
+}
+
+$item=$set $block_class1='fragment $fragtype'
+$incremental=$set $li_class='fragment $fragtype'
+$notincremental=$unset $li_class
+$fragtype=
+
+%=<aside class="notes">
+%=</aside>
+
+//////////// from incstd.txt
+^=<mark>||^=</mark>
+$arrow=&rarr;
+$unset $div_plainlist_style
+$keywordset LORD ${LORD} ANY
+$LORD=L<span class="smcaps">ORD</span>
+$noauthor=unknown author
+$if $author == $noauthor
+  $author=Andrew Fountain
+$endif
+
+<div. class="reveal"><div: class="slides">
+$postamble={
+</aside></div:></div.>
+<script src="$reveal/lib/js/head.min.js"></script>
+<script src="$reveal/js/reveal.min.js"></script>
+<script>
+	// Full list of configuration options available at:
+	// https://github.com/hakimel/reveal.js#configuration
+<`Reveal.initialize({
+		controls: true,
+		progress: true,
+		history: true,
+		center: true,
+  rollingLinks: true,
+		transition: 'convex', // none/fade/slide/convex/concave/zoom
+		// Optional reveal.js plugins
+		dependencies: [
+`>
+$pushset $autolinks=FALSE
+/<`{ src: '`>$reveal/lib/js/classList.js<`', condition: function() { return !document.body.classList; } },`>
+/<`{ src: '`>$reveal/plugin/markdown/marked.js<`', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },`>
+/<`{ src: '`>$reveal/plugin/markdown/markdown.js<`', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },`>
+/<`{ src: '`>$reveal/plugin/highlight/highlight.js<`', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },`>
+/<`{ src: '`>$reveal/plugin/zoom-js/zoom.js<`', async: true },`>
+/<`{ src: '`>$reveal/plugin/notes/notes.js<`', async: true }`>
+<`		]
+	});
+`>
+$pop $autolinks
+</script>
+}
+$pagebreak=
+$slide_style=
+$incremental2=$incremental
+$clickhere=
+$ifanchor=
+$vframe=
+$LORD=L<span class="smcaps">ORD</span>
+$noauthor=unknown author
+$if $author == $noauthor
+  $author=Andrew Fountain
+$endif
+
+$if $online
+  $clickhere=$SP<br />$SP<br /><span class="red">Click on this slide and then press the spacebar to advance slides: *$arrow*</span>
+  $xlink=http://nlife.ca/sermons/external.png
+  $a_class=xlink
+  $vframe=415
+$else
+  $a_attr=target="_newtab"
+  $clickhere=
+  $xlink=nolink.png //want no links when presenting $xlink=$rootpath/external.png
+  $vframe=580
+$endif
+
+$style+={
+  .gr, .darkgreen {color: darkgreen; font-weight: bold}
+  .red {color: #FF0040; font-weight: bold;}
+  mark {color:red; background-color:transparent;}
+  .italic {font-style:italic; font-family:'Liberation Serif', 'Nimbus Roman No 9 L', FreeSerif, 'Hoefler Text', Times, 'Times New Roman', serif;}
+   a.xlink {background: url("$xlink") no-repeat right top; padding-right: 10px;}
+  span.smcaps {font-size:75%;}
+}
+
