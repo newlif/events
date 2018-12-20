@@ -203,7 +203,7 @@ noimage
 -Once a month, immediately after church, we get together for a time of mutual support (with refreshments)
 -Come and join us for a time of prayer and sharing (and leave whenever you need to)
 
-$event 2019-01-19-student Student after-church fellowship /////////////////////////////////////////
+$event 2019-01-27-student Student after-church fellowship /////////////////////////////////////////
 Monthly after-church gathering for students at Newlife
 
 "immediately after church" at the end of the cafeteria
