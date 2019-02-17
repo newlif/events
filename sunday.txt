@@ -230,4 +230,13 @@ http://nlife.ca/signup/2019-02-03
 -If you have something you like to make or a dish that reminds you of home please make it so we can all enjoy.
 -Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
 
+$event 2019-02-24-student Student after-church fellowship /////////////////////////////////////////
+Monthly after-church gathering for students at Newlife
+
+"immediately after church" at the end of the cafeteria
+noimage
+-If you're a student who comes to Newlife then there's something great for you
+-Once a month, immediately after church, we get together for a time of mutual support (with refreshments)
+-Come and join us for a time of prayer and sharing (and leave whenever you need to)
+
 //end
