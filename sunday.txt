@@ -203,12 +203,31 @@ noimage
 -Once a month, immediately after church, we get together for a time of mutual support (with refreshments)
 -Come and join us for a time of prayer and sharing (and leave whenever you need to)
 
+/////////////////// 2019
 $event 2019-01-06-food Bring & share meal /////////////////////////////////////////
 This Sunday everyone's welcome to stay after church and eat together
 http://nlife.ca/signup/2018-12-02
 "after church" St. Joseph's Cafeteria
 2015-11-01-bring-share_0.jpg Bring and share!
 -Don't forget [[/signup/2019-01-06 to sign up to bring something]].
+-If you have something you like to make or a dish that reminds you of home please make it so we can all enjoy.
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2019-02-03-food Bring & share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and eat together
+http://nlife.ca/signup/2019-02-03
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-Don't forget [[/signup/2019-02-03 to sign up to bring something]].
+-If you have something you like to make or a dish that reminds you of home please make it so we can all enjoy.
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2019-03-03-food Bring & share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and eat together
+http://nlife.ca/signup/2019-03-03
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-Don't forget [[/signup/2019-03-03 to sign up to bring something]].
 -If you have something you like to make or a dish that reminds you of home please make it so we can all enjoy.
 -Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
 
@@ -221,15 +240,6 @@ noimage
 -Once a month, immediately after church, we get together for a time of mutual support (with refreshments)
 -Come and join us for a time of prayer and sharing (and leave whenever you need to)
 
-$event 2019-02-03-food Bring & share meal /////////////////////////////////////////
-This Sunday everyone's welcome to stay after church and eat together
-http://nlife.ca/signup/2019-02-03
-"after church" St. Joseph's Cafeteria
-2015-11-01-bring-share_0.jpg Bring and share!
--Don't forget [[/signup/2019-02-03 to sign up to bring something]].
--If you have something you like to make or a dish that reminds you of home please make it so we can all enjoy.
--Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
-
 $event 2019-02-24-student Student after-church fellowship /////////////////////////////////////////
 Monthly after-church gathering for students at Newlife
 
@@ -239,13 +249,13 @@ noimage
 -Once a month, immediately after church, we get together for a time of mutual support (with refreshments)
 -Come and join us for a time of prayer and sharing (and leave whenever you need to)
 
-$event 2019-03-03-food Bring & share meal /////////////////////////////////////////
-This Sunday everyone's welcome to stay after church and eat together
-http://nlife.ca/signup/2019-03-03
-"after church" St. Joseph's Cafeteria
-2015-11-01-bring-share_0.jpg Bring and share!
--Don't forget [[/signup/2019-03-03 to sign up to bring something]].
--If you have something you like to make or a dish that reminds you of home please make it so we can all enjoy.
--Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+$event 2019-03-31-student Student after-church fellowship /////////////////////////////////////////
+Monthly after-church gathering for students at Newlife
+
+"immediately after church" at the end of the cafeteria
+noimage
+-If you're a student who comes to Newlife then there's something great for you
+-Once a month, immediately after church, we get together for a time of mutual support (with refreshments)
+-Come and join us for a time of prayer and sharing (and leave whenever you need to)
 
 //end
