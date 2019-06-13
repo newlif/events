@@ -258,7 +258,15 @@ http://nlife.ca/signup/2019-06-02
 -If you have something you like to make or a dish that reminds you of home please make it so we can all enjoy.
 -Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
 
-$event 2019-01-27-student Student after-church fellowship /////////////////////////////////////////
+$event 2019-06-16-preacher Special Preacher /////////////////////////////////////////
+Mike Seaman visiting from Trinity Life Church
+
+11:00am
+noimage
+-Mike has a powerful vision for how we can do evangelism in downtown Toronto
+-We have asked him to to come and share this vision with us
+
+$event 2019-01-27-student Student after-church fellowship ///////////////////////////////////////////////////////////////////////////////////////////////////
 Monthly after-church gathering for students at Newlife
 
 "immediately after church" at the end of the cafeteria

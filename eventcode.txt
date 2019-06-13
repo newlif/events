@@ -197,7 +197,9 @@ $slide={
   $else
     -*When:* $ev_id.customdate() ${etime$ev_id}
   $endif
-  -*Where:* ${place$ev_id}
+  $if ${place$ev_id}
+    -*Where:* ${place$ev_id}
+  $endif
   ${descr$ev_id}
   //$if ${imgid$ev_id}!=noimage
   //  $img_class1=event
