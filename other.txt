@@ -22,9 +22,14 @@ $event 2019-04-06-nf Churches Together Spring Celebration
 2 great sessions of worship and teaching about God's Kingdom
 http://nlife.ca/meeting/2019-04-06
 "10:00am-3:00pm" Milton Bible Church, Milton, ON
-http://nlife.ca/sites/default/files/2019-04-06-churches-together.jpg
+noimage
+-Bring a lunch and mingle
+
+$event 2019-09-28-nf Ontario Churches Together Celebration
+Learn about what God is doing in Peru
+http://new-frontiers.ca/content/ontairo-churches-together-2019
+"10:00am-3:30pm" Milton Bible Church, Milton, ON
+noimage
 -Bring a lunch and mingle
 
 //end
-
-

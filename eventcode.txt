@@ -200,6 +200,12 @@ $slide={
   $if ${place$ev_id}
     -*Where:* ${place$ev_id}
   $endif
+  $if $showpic_x
+    $img_class1=event
+    $img_style1="width:${showpic_x}px; height:${showpic_y}px; float:right;
+    [[${imgid$ev_id} ${imgde$ev_id}]]
+    $unset $showpic_x
+  $endif
   ${descr$ev_id}
   //$if ${imgid$ev_id}!=noimage
   //  $img_class1=event
