@@ -343,4 +343,12 @@ noimage
 -Once a month, immediately after church, the students at Newlife get together for a time of mutual support (with refreshments)
 -Come and join us (and leave whenever you need to)
 
+$event 2019-09-22-student Student after-church fellowship /////////////////////////////////////////
+Monthly after-church gathering for students at Newlife
+
+"immediately after church" at the end of the cafeteria
+noimage
+-Once a month, immediately after church, the students at Newlife get together for a time of mutual support (with refreshments)
+-Come and join us (and leave whenever you need to)
+
 //end
