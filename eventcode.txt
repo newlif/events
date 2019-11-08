@@ -114,25 +114,33 @@ $news={
     $unset $showpic_x
   $endif
   ${descr$ev_id}
-  $pushset $p_style=margin-top:0;margin-bottom:0;
-  $pushset $ul_style=margin-top:0;margin-bottom:0;
-  $pushset $ol_style=margin-top:0;margin-bottom:0;
-  $tbody_style1=background-color:#F0FFF0;
-  ---- indent
-  <span style="color:#888; font-weight:bold;">Details:</span>
-  $customdatefmt=%A %Eb %-d //month, day
-  -*Date:* $ev_id.customdate()
-  -*Time:* ${etime$ev_id}
-  -*Place:* ${place$ev_id}
-  $if ${evurl$ev_id}
-    $if !$nolinks
+  $if $nolinks
+    <div style="border:2px solid #888;margin-left:24pt;width:auto;display:inline-block;background-color:#F0FFF0">
+    <div><b>Details:</b></div>
+    $customdatefmt=%A %Eb %-d //month, day
+    -*Date:* $ev_id.customdate()
+    -*Time:* ${etime$ev_id}
+    -*Place:* ${place$ev_id}
+    </div>
+  $else
+    $pushset $p_style=margin-top:0;margin-bottom:0;
+    $pushset $ul_style=margin-top:0;margin-bottom:0;background-color:blue;
+    $pushset $ol_style=margin-top:0;margin-bottom:0;
+    $tbody_style1=background-color:#F0FFF0;
+    ---- indent
+    <span style="color:#888;font-weight:bold;">Details:</span>
+    $customdatefmt=%A %Eb %-d //month, day
+    -*Date:* $ev_id.customdate()
+    -*Time:* ${etime$ev_id}
+    -*Place:* ${place$ev_id}
+    $if ${evurl$ev_id}
       -[[${evurl$ev_id} More info]]
     $endif
+    $pop $ol_style
+    $pop $ul_style
+    $pop $p_style
+    ----
   $endif
-  $pop $ol_style
-  $pop $ul_style
-  $pop $p_style
-  ----
   //$if ${imgid$ev_id}!=noimage
   //  $set $img_class1=event
   //  [[${imgid$ev_id} ${imgde$ev_id}]]
