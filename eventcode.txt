@@ -124,7 +124,7 @@ $news={
     </div>
   $else
     $pushset $p_style=margin-top:0;margin-bottom:0;
-    $pushset $ul_style=margin-top:0;margin-bottom:0;background-color:blue;
+    $pushset $ul_style=margin-top:0;margin-bottom:0;
     $pushset $ol_style=margin-top:0;margin-bottom:0;
     $tbody_style1=background-color:#F0FFF0;
     ---- indent
