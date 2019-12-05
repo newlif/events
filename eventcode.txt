@@ -155,7 +155,8 @@ $showpic= //just exists to get parameters
 $parameters $upcoming ev_id
 $upcoming={
   $setval $evtype="$ev_id.slice(11 999)"
-  $copy $nolink=$nolinks
+  $if $nolinks||$nolink=TRUE||$endif
+  //$copy $nolink=$nolinks
   $if $evtype==student||$nolink=TRUE||$endif
   $if !$nolink
     $if ${evurl$ev_id}
@@ -166,6 +167,7 @@ $upcoming={
   $else
     -$ev_id.monthdate(): *${title$ev_id}*
   $endif
+  $nolink=FALSE
 }
 
 $parameters $show ev_id
