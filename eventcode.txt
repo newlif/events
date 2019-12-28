@@ -114,7 +114,9 @@ $news={
     $unset $showpic_x
   $endif
   ${descr$ev_id}
-  $if $nolinks
+  $if $nolinks||$nolink=TRUE||$endif
+  $if $evtype==student||$nolink=TRUE||$endif
+  $if $nolink
     <div style="border:2px solid #888;margin-left:24pt;width:auto;display:inline-block;background-color:#F0FFF0">
     <div><b>Details:</b></div>
     $customdatefmt=%A %Eb %-d //month, day
@@ -141,6 +143,7 @@ $news={
     $pop $p_style
     ----
   $endif
+  $nolink=FALSE
   //$if ${imgid$ev_id}!=noimage
   //  $set $img_class1=event
   //  [[${imgid$ev_id} ${imgde$ev_id}]]
