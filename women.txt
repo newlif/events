@@ -182,13 +182,20 @@ noimage
 -Join us for this month's women's gathering! After having a light snack, we'll worship together, learn together, laugh together, pray for and encourage one another.
 -We look forward to seeing you there!
 
-$event 2020-03-21-women Women's Tea, Talk and Truth /////////////////////////////////////////
-Speaker: TBA
+$event 2020-03-21-women Women's Tea, Talk and Truth Cancelled /////////////////////////////////////////
+Cancelled //Speaker: TBA
 http://nlife.ca/meeting/2020-03-21
 10:30am-12:30pm $fountains
 noimage
--Join us for this month's women's gathering! After having a light snack, we'll worship together, learn together, laugh together, pray for and encourage one another.
--We look forward to seeing you there!
+-Meeting sadly cancelled because of Covid-19
 
+$event 2020-04-18-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Slowing down, moving forward
+http://nlife.ca/meeting/2020-04-18
+10:30am-12:30pm on Zoom
+noimage
+-This month well be discussing how we can continue to deepen our relationships with God, one another and our community even though we are forced to stay physically distant.
+-This is a strange time, but God's kingdom is still advancing, so we should be too! 
+-Brew your own tea or coffee and join us on Zoom at http://go.church.to/ttt
 
 //end

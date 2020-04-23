@@ -339,7 +339,7 @@ http://nlife.ca/signup/2020-03-01
 -Otherwise, don't forget to sign up so we can make sure that everyone doesn't bring the same thing.
 -Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
 
-$event 2020-04-05-food Newlife Church's 11th Birthday /////////////////////////////////////////
+$event 2020-04-05-food Newlife Church's 11th Birthday Bring & Share /////////////////////////////////////////
 This Sunday everyone's welcome to stay after church and eat together
 http://nlife.ca/signup/2020-04-05
 "after church" St. Joseph's Cafeteria
