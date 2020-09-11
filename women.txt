@@ -234,4 +234,29 @@ noimage
 -In the midst of all that has been happening in the world, we will turn to Jesus for our wisdom and encouragement together
 -We hope you can join us!
 
+$TILL=&#x200A;&mdash;&#x200A;
+$AM=&#x200A;am //&thinsp;am &VeryThinSpace; 'SIX-PER-EM SPACE' 
+$PM=&#x200A;pm
+
+$event 2020-09-05-women Afternoon Tea at Fountain Gardens /////////////////////////////////////////
+Ladies! You are invited to Afternoon Tea at Fountain Gardens
+http://nlife.ca/meeting/2020-09-05
+2:30$PM${TILL}4:30$PM $fountains
+http://nlife.ca/sites/default/files/2020-09-05-afternoon_tea_ad.jpg
+-Fountain Gardens is actually at Anne and Andrew's house./+This will be an opportunity for us to see each other face to face instead of on Zoom!
+-Ruth and Anne will serve a *traditional English Afternoon Tea of sandwiches and scones with jam and cream along with tea in fancy bone china cups*.
+-We will observe suitable physical distancing and will stay outside except for necessary visits to the bathroom (which will be sanitised before you arrive).
+-We have to limit numbers to 10 people so please RSVP to anne@nlife.ca./+If there are more than 10 who want to come then, no problem, we'll have a second sitting the following weekend or the one after.
+-Looking forward to seeing you even if we can't hug.
+
+$event 2020-09-20-women Sunday Afternoon Tea at Fountain Gardens /////////////////////////////////////////
+Ladies! Those of you who weren't able to come last Saturday are invited to a second Afternoon Tea at Fountain Gardens
+http://nlife.ca/meeting/2020-09-20
+3:00$PM${TILL}5:00$PM $fountains
+http://nlife.ca/sites/default/files/2020-09-05-afternoon_tea_ad.jpg
+-A number of ladies have already replied, but if you want to come, please let Anne or Ruth know by this Sunday evening to reserve your space.
+-Ruth and Anne will serve a *traditional English Afternoon Tea of sandwiches and scones with jam and cream along with tea in fancy bone china cups*.
+-We will observe suitable physical distancing and will stay outside except for necessary visits to the bathroom (which will be sanitised before you arrive).
+-Looking forward to seeing you even if we can't hug.
+
 //end

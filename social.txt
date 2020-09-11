@@ -85,5 +85,22 @@ noimage
 -Invite friends!
 //-RSVP to Roselyn by Dec. 16.
 
+$TILL=&#x200A;&mdash;&#x200A;
+$AM=&#x200A;am //&thinsp;am &VeryThinSpace; 'SIX-PER-EM SPACE' 
+$PM=&#x200A;pm
+
+$event 2020-09-12-boating Boating, BBQ & Bonfire /////////////////////////////////////////
+NewLife summer event at Roselyn’s mother’s property in St Catharines
+http://nlife.ca/meeting/2020-09-12
+1:30$PM${TILL}8:30$PM St Catharines (90 minute drive or bus ride from central downtown)
+http://nlife.ca/sites/default/files/2020-09-12-canoeing-rks.jpg
+-There will be canoe and kayak excursions on Martindale pond, barbecue, and a bonfire.
+-If you want to contribute food or beverages, do!
+-If you can bring your own life jackets, do!
+-If you’ve got nothing and you want to come anyway, do!
+-If you want to camp on the lawn overnight, do!
+-Please email Roselyn to RSVP by Sept. 10th. latest (10 person max.)
+-Include any allergies or dietary restrictions. If you’re bringing food, please let Roselyn know what by September 8. If you have lifeguard certification or can’t swim, please let Roselyn know that too. We’re not swimming, but water safety is key nevertheless.
+
 //end
 
