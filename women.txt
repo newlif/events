@@ -284,11 +284,36 @@ noimage
 -We will spend some together encouraging one another in the Lord
 -We hope you can join us!
 
-$event 2020-12-13-women Women's Special Event /////////////////////////////////////////
-Sunday Afternoon Christmas Celebration
+$event 2020-12-13-women Newlife Women's Christmas Tea /////////////////////////////////////////
+$NULL
 http://nlife.ca/meeting/2020-12-13w
-"After church" on http://go.church.to/ttt (Zoom)
+3:30-5:30 on http://go.church.to/ttt (Zoom)
+http://nlife.ca/sites/default/files/2020-12-13-women.jpg
+-Join us on Zoom from your cozy home for an afternoon to celebrate our wonderful saviour Jesus, with festive treats delivered directly to your door!
+-We look forward to seeing there
+
+$event 2021-01-23-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Speaker TBA
+http://nlife.ca/meeting/2021-01-23
+10:30am-12:30pm on http://go.church.to/ttt (Zoom)
 noimage
--We hope you can all be part of this!
+-We will spend some together encouraging one another in the Lord
+-We hope you can join us!
+
+$event 2021-02-20-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Speaker TBA
+http://nlife.ca/meeting/2021-02-20
+10:30am-12:30pm on http://go.church.to/ttt (Zoom)
+noimage
+-We will spend some together encouraging one another in the Lord
+-We hope you can join us!
+
+$event 2021-03-20-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Speaker TBA
+http://nlife.ca/meeting/2021-03-20
+10:30am-12:30pm on http://go.church.to/ttt (Zoom)
+noimage
+-We will spend some together encouraging one another in the Lord
+-We hope you can join us!
 
 //end

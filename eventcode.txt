@@ -109,6 +109,10 @@ $news={
       *${summa$ev_id}*
     $endif
   $endif
+  $if $newsadd
+    $newsadd
+    $unset $newsadd
+  $endif
   $if $nolinks||$nolink=TRUE||$endif
   $if $evtype==student||$nolink=TRUE||$endif
   $if $showpic_x
@@ -181,7 +185,9 @@ $parameters $show ev_id
 $show={
   $if ${title$ev_id}
     $block_title1=${title$ev_id}
-    ...${summa$ev_id}
+    $if ${summa$ev_id}
+      ...${summa$ev_id}
+    $endif
     ${descr$ev_id}
     $tbody_style1=background-color:#F0FFF0;
     ---- indent
@@ -204,7 +210,9 @@ $show={
 $parameters $slide ev_id datex_line
 $slide={
   {${title$ev_id} $datex_line
-  *${summa$ev_id}*
+  $if ${summa$ev_id}
+    *${summa$ev_id}*
+  $endif
   $customdatefmt=%Ea %Eb %-d
   $if ${enddate$ev_id}
     $if ${endtime$ev_id}
