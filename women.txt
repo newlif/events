@@ -314,15 +314,59 @@ $event 2021-03-20-women Women's Tea, Talk and Truth ////////////////////////////
 http://nlife.ca/meeting/2021-03-20
 10:30am-12:30pm on http://go.church.to/ttt (Zoom)
 noimage
+$if !TRUE
+-Last month, Ruth shared the concept of shalom; God's plan for wholeness and flourishing
+-One day God will make all things new, but how do we reconcile that with our current struggles and pain?
+-Last time we touched on specific struggles some of us have had with our mental health.
+-Ruth will share some of her own story and offer her perspective on how we can live fully in the 'in-between'.
+-We hope you can join us!
+$else
 -Last month, Ruth shared with us about the biblical concept of shalom; God's plan for wholeness and flourishing for his creation.// (If you missed it, check out The Bible Project's video on Shalom for a great summary!)
 -The prospect of experiencing shalom in our lives is quite beautiful, but what happens when we're not experiencing that? We know that one day God will make all things new, but how do we reconcile our current struggles and pain with this promised wholeness?
 -Our conversation last time touched on some of the specific struggles that a number of us have had with our mental health.
 -This month Ruth will share some of her own story and offer her perspective on how we can live fully in the 'in-between'.
 -We hope you can join us!
+$endif
 
 $event 2021-04-24-women Women's Tea, Talk and Truth /////////////////////////////////////////
-Speaker TBA
-http://nlife.ca/meeting/2021-03-20
+"My story of searching for God in one of the darkest and most difficult times in my life" by Anne Fountain
+http://nlife.ca/meeting/2021-04-24
+10:30am-12:30pm on http://go.church.to/ttt (Zoom)
+noimage
+-We will spend some together encouraging one another in the Lord
+-We hope you can join us!
+
+$event 2021-05-22-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Why is casting our cares upon Jesus so hard?
+http://nlife.ca/meeting/2021-05-22
+10:30am-12:30pm on http://go.church.to/ttt (Zoom)
+noimage
+-We all know the concept that giving our anxieties and worries to Jesus is a way to experience peace, but life is still so full of anxiety sometimes!
+-Are we missing something?
+-This month, we will explore together some of the things that get in the way of us experiencing this peace that Jesus promises.
+
+$event 2021-06-19-women Women's TTT //Tea, Talk and Truth /////////////////////////////////////////
+Sharing time: Pratyusha, Melinda, Jeanine //& others
+http://nlife.ca/meeting/2021-06-19
+10:30am-12:30pm on http://go.church.to/ttt (Zoom)
+noimage
+-Note the time change! Based on feedback we're trying out a new format: // for our time together. It will look something like this:
+<div style="text-align:left;">*10.50* - Zoom meeting begins; we arrive!/
+*11.00* - Talk + discussion time/
+*12.00* - 'Formal end' to program; free hour for prayer & fellowship + extended discussion/
+*1.00* - End meeting</div>
+-We hope you can join us!
+
+/*
+<div style="text-align:left;">*10.50* - start Zoom meeting, arrive and chat/
+*11.00* - talk + discussion/
+*12.00* - end of organised program so those with less time can leave; prayer requests, pray together, chat & fellowship/
+*1.00* - end meeting--We will spend some together encouraging one another in the Lord</div>
+*/
+
+$event 2021-07-24-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Speaker: TBA
+http://nlife.ca/meeting/2021-07-24
 10:30am-12:30pm on http://go.church.to/ttt (Zoom)
 noimage
 -We will spend some together encouraging one another in the Lord
