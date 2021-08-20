@@ -454,4 +454,25 @@ noimage
 -Once a month, immediately after church, the students at Newlife get together for a time of mutual support (with refreshments)
 -Come and join us (and leave whenever you need to)
 
+$event 2021-08-01-picnic Picnic after church in High Park /////////////////////////////////////////
+This Sunday we have booked a picnic spot in High Park
+http://nlife.ca/meeting/2021-08-01
+"after church" High Park Picnic spot 4
+noimage
+-We have reserved a picnic spot (#4) which is very near the Bloor street entrance at the north [[http://nlife.ca/meeting/2021-08-01 SEE MAP]] -- easy to get to on the TTC
+-We'll start as soon as we can get there after church (which will probably be around 1-- 1:30pm)
+-Bring your own food!
+-Contact [[mailto:jithinjohn010@gmail.com Jithin]] if you have any questions
+
+$event 2021-08-08-church Opportunity for In-Person Church on Aug 8
+Kiran & Pratyusha have offered their home next Sunday
+
+11:00am-1:00pm 508 Milton Street, Oshawa L1H6S5 //Kiran Matlapudi
+noimage
+-We hope that in September we will be meeting at the school again, but in the meantime we want to gather as best as we can
+-We will still live-stream as usual, so don't worry if you can't make it.
+-For some people there may be a transportation challenge, but we will do all we can to co-ordinate ride-sharing or Go-transit
+-We'll be contacting people about transportation, and you can reply to this email if you have any questions.
+-We'll be as careful as we can to comply with Covid guidelines, and we will keep you updated as to how we'll do this
+
 //end

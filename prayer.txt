@@ -343,13 +343,20 @@ noimage
 -We have had some powerful prayer meetings recently, both in terms of a sense of the presence of God, and in seeing so many answers to our prayers.
 -Join us as we bring our requests to God in prayer
 
-$event 2021-07-29-prayer Church Prayer Meeting (Homefully NOT on Zoom /////////////////////////////////////////
+$event 2021-07-29-prayer Church Prayer Meeting in-person /////////////////////////////////////////
 Monthly prayer meeting for the whole church
 http://nlife.ca/meeting/2021-07-29
-7:30-9:00pm On Zoom at http://go.church.to/pray
+7:30-9:00pm $fountains_full
 noimage
--We have had some powerful prayer meetings recently, both in terms of a sense of the presence of God, and in seeing so many answers to our prayers.
--Join us as we bring requests to God in prayer
+-Praise God Covid is slowly coming to an end (as we have prayed) and for many, many other prayers which he has heard.
+-Join us to celebrate in prayer that we can meet in-person and bring requests to God.
+
+$event 2021-09-02-prayer Church Prayer Meeting in-person /////////////////////////////////////////
+Monthly prayer meeting for the whole church
+http://nlife.ca/meeting/2021-09-02
+7:30-9:00pm $fountains_full
+noimage
+-Join us to celebrate in prayer that we can meet in-person and bring requests to God.
 
 //end
 
