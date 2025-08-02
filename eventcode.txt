@@ -2,7 +2,7 @@
 //first image shown should generate a webpic
 $VER=2.76
 $include shortcuts.txt
-$imgroot=http://nlife.ca/sites/default/files
+$imgroot=https://nlife.ca/sites/default/files
 $dateplus=                // to be added to the end of the title
 $imgbase=/
 
@@ -96,7 +96,7 @@ $news={
   $if ${evurl$ev_id}
     $setval $link=${evurl$ev_id}
   $else
-    $link=http://nlife.ca/email#$ev_id
+    $link=https://nlife.ca/email#$ev_id
   $endif
   $if !$notitle
     ...${title$ev_id} $datex_line
@@ -163,20 +163,20 @@ $news={
 $parameters $showpic showpic_x showpic_y
 $showpic= //just exists to get parameters
 
-$parameters $upcoming ev_id
-$upcoming={
+$upcoming($ev_id, line $ev_extra)={
   $setval $evtype="$ev_id.slice(11 999)"
+  $if $ev_extra||$ev_extral= _${ev_extra}_||$else||$ev_extral=||$endif
   $if $nolinks||$nolink=TRUE||$endif
   //$copy $nolink=$nolinks
   $if $evtype==student||$nolink=TRUE||$endif
   $if !$nolink
     $if ${evurl$ev_id}
-      -$ev_id.monthdate(): [[${evurl$ev_id} ${title$ev_id}]]
+      -$ev_id.monthdate(): [[${evurl$ev_id} ${title$ev_id}]]$ev_extral
     $else
-      -$ev_id.monthdate(): *${title$ev_id}*
+      -$ev_id.monthdate(): *${title$ev_id}*$ev_extral
     $endif
   $else
-    -$ev_id.monthdate(): *${title$ev_id}*
+    -$ev_id.monthdate(): *${title$ev_id}*$ev_extral
   $endif
   $nolink=FALSE
 }
@@ -199,6 +199,7 @@ $show={
     ----
     $if ${imgid$ev_id}!=noimage
       $img_class1=event
+      $mediatype1=image
       [[${imgid$ev_id} ${imgde$ev_id}]]
     $endif
   $else
@@ -242,3 +243,113 @@ $slide={
   }
 }
 
+$report($ev_id, line $datex_line)={
+  {Report on ${title$ev_id}
+  -Report on ${summa$ev_id} last $datex_line.slice(5 999)
+  // this line is needed!
+  }
+}
+
+$testevent($TESTsun, $TESTmeet, $TESTday)={
+  $evaline $TESTid=$TESTsun.plus($TESTday)-$TESTmeet
+  $evaline $TESTtitle=${title$TESTid}.whenunset(FALSE)
+}
+
+// display a single event on a date
+$doevent($DOprogvar, $DOsun, $DOmeet, $DOday, line $DOmsg="")={
+  $evaline $DOid=$DOsun.plus($DOday)-$DOmeet
+  $evaline $DOtitle=${title$DOid}.whenunset(FALSE)
+  $evaline $DOprog=$DOprogvar
+  $if $DOtitle
+    $if $DOmsg
+      ${$DOprog} $DOid $DOmsg
+    $else
+      ${$DOprog} $DOid
+    $endif
+  $endif
+}
+
+// display all events on a date
+$allevents($ALLprog, $ALLsun, $ALLday, line $ALLmsg="")={
+  $doevent $ALLprog $ALLsun prayer $ALLday $ALLmsg
+  $doevent $ALLprog $ALLsun games  $ALLday $ALLmsg
+  $doevent $ALLprog $ALLsun women  $ALLday $ALLmsg
+  $doevent $ALLprog $ALLsun men    $ALLday $ALLmsg
+  $doevent $ALLprog $ALLsun food   $ALLday $ALLmsg
+  $doevent $ALLprog $ALLsun social $ALLday $ALLmsg
+  $doevent $ALLprog $ALLsun special $ALLday $ALLmsg
+  $doevent $ALLprog $ALLsun retreat $ALLday $ALLmsg
+}
+$zzzallevents($ALLprog, $ALLsun, $ALLday, line $ALLmsg="")={
+  $doevent $ALLprog $checksun prayer $ALLday $ALLmsg
+  $doevent $ALLprog $checksun games  $ALLday $ALLmsg
+  $doevent $ALLprog $checksun women  $ALLday $ALLmsg
+  $doevent $ALLprog $checksun men    $ALLday $ALLmsg
+  $doevent $ALLprog $checksun food   $ALLday $ALLmsg
+  $doevent $ALLprog $checksun social $ALLday $ALLmsg
+  $doevent $ALLprog $checksun special $ALLday $ALLmsg
+  $doevent $ALLprog $checksun retreat $ALLday $ALLmsg
+}
+
+$checkearlythisweek($checkprog, $checksun)={
+  $allevents $checkprog $checksun -6 this Monday
+  $allevents $checkprog $checksun -5 this Tuesday
+}
+$checkthisweek($checkprog, $checksun)={
+  $allevents $checkprog $checksun -4 this Wednesday
+  $allevents $checkprog $checksun -3 this Thursday
+  $allevents $checkprog $checksun -2 this Friday
+  $allevents $checkprog $checksun -1 this Saturday
+}
+
+$checksunday($checkprog, $checksun, line $checksunmsg="this Sunday")={
+  $allevents $checkprog $checksun  0 $checksunmsg
+}
+
+$checknextweek($checkprog, $checksun)={
+  $allevents $checkprog $checksun  1 next Monday
+  $allevents $checkprog $checksun  2 next Tuesday
+  $allevents $checkprog $checksun  3 next Wednesday
+  $allevents $checkprog $checksun  4
+  $allevents $checkprog $checksun  5
+  $allevents $checkprog $checksun  6
+}
+$checkfuture($checkprog, $checksun)={
+  $allevents $checkprog $checksun  7
+  $nolinks=TRUE
+  $allevents $checkprog $checksun  8
+  $allevents $checkprog $checksun  9
+  $allevents $checkprog $checksun 10
+  $allevents $checkprog $checksun 11 
+  $allevents $checkprog $checksun 12
+  $allevents $checkprog $checksun 13
+  $allevents $checkprog $checksun 14
+  $allevents $checkprog $checksun 15
+  $allevents $checkprog $checksun 16
+  $allevents $checkprog $checksun 17
+  $allevents $checkprog $checksun 18
+  $allevents $checkprog $checksun 19
+  $allevents $checkprog $checksun 20
+  $allevents $checkprog $checksun 21
+  $unset $nolinks
+}
+
+  /*$doevent $checkprog $checksun $checkmeet -4 this Wednesday
+  $testevent $checksun $checkmeet -4
+  $if $TESTtitle||${$checkprog} $TESTid this Wednesday||$endif
+  $testevent $checksun $checkmeet -3
+  $if $TESTtitle||${$checkprog} $TESTid this Thursday||$endif
+  $testevent $checksun $checkmeet -2
+  $if $TESTtitle||${$checkprog} $TESTid this Friday||$endif
+  $testevent $checksun $checkmeet -1
+  $if $TESTtitle||${$checkprog} $TESTid this Saturday||$endif
+  $testevent $checksun $checkmeet 0
+  $if $TESTtitle||${$checkprog} $TESTid this Sunday||$endif
+  $testevent $checksun $checkmeet 1
+  $if $TESTtitle||${$checkprog} $TESTid next Monday||$endif
+  $testevent $checksun $checkmeet 2
+  $if $TESTtitle||${$checkprog} $TESTid next Tuesday||$endif
+  $testevent $checksun $checkmeet 3
+  $if $TESTtitle||${$checkprog} $TESTid next Wednesday||$endif*/
+
+$include sunday-std.txt

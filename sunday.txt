@@ -74,7 +74,6 @@ noimage
 -Once a month, immediately after church, we get together for a time of mutual support (with refreshments)
 -Come and join us for a time of prayer and sharing (and leave whenever you need to)
 
-
 $event 2018-05-13-food Bring & share meal  /////////////////////////////////////////
 This Sunday everyone's welcome to stay after church and eat together
 http://nlife.ca/signup/2018-05-13
@@ -92,7 +91,6 @@ noimage
 -If you're a student who comes to Newlife then there's something great for you
 -Once a month, immediately after church, we get together for a time of mutual support (with refreshments)
 -Come and join us for a time of prayer and sharing (and leave whenever you need to)
-//end
 
 $event 2018-06-03-food Bring & share meal  /////////////////////////////////////////
 This Sunday everyone's welcome to stay after church and eat together
@@ -348,7 +346,276 @@ http://nlife.ca/signup/2020-04-05
 -Otherwise, don't forget to sign up so we can make sure that everyone doesn't bring the same thing.
 -Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
 
-$event 2019-06-16-preacher Special Preacher ///////////////////////////////////////////////////////////////////////////////////////////////////
+$event 2022-10-16-food Thanksgiving Bring & share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and eat together, with a Thanksgiving theme
+http://nlife.ca/signup/20122-10-16
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-If you didn't sign up last Sunday, then please [[/signup/2022-10-16 sign up here to bring something]].
+-If you have something you like to make or a dish that reminds you of home please make it so we can all enjoy.
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2022-12-11-food Christmas after-church food--Bring and share! /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and eat together
+http://nlife.ca/signup/2022-12-11
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-If you signed up in advance last Sunday, you can [[/signup/2022-12-11 go here to check]] what you signed up to bring.
+-Otherwise, don't forget to [[/signup/2022-12-11 sign up here]] so we can make sure that everyone doesn't bring the same thing.
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2023-02-12-food Feast of St. Valentine--after-church bring and share! /////////////////////////////////////////
+Valentine's day never used to be about romantic love, but was a feast to celebrate those in the past who gave their lives for Jesus./+They gave their lives so we can have the freedom of meeting together and the joy of being one in Christ!/+So let's celebrate!
+http://nlife.ca/signup/2023-02-12
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-This Sunday everyone's welcome to stay after church and eat together
+-If you signed up in advance last Sunday, you can [[/signup/2023-02-12 go here to check]] what you signed up to bring.
+-Otherwise, don't forget to [[/signup/2023-02-12 sign up here]] so we can make sure that everyone doesn't bring the same thing.
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+//Make sure all 4 dates are updated!
+$event 2023-04-09-food Easter Celebration: After-church bring and share /////////////////////////////////////////
+This Sunday we will joyfully celebrate the resurrection by eating together after church
+http://nlife.ca/signup/2023-04-09
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-Everyone's welcome to stay after church and join us
+-If you signed up in advance last Sunday, you can [[/signup/2023-04-09 go here to check]] what you signed up to bring.
+-Otherwise, don't forget to [[/signup/2023-04-09 sign up here]] so we can make sure that everyone doesn't bring the same thing.
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2023-06-04-food Bring & share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and eat together
+http://nlife.ca/signup/2023-06-04
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-If you signed up in advance last Sunday, you can the link below to see what you signed up to bring.
+-Otherwise, don't forget to sign up so we can make sure that everyone doesn't bring the same thing.
+-See [[/signup/2023-06-04 the online signup]]
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2023-09-03-food Bring & share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and eat together
+http://nlife.ca/signup/2023-09-03
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-If you signed up in advance last Sunday, you can the link below to see what you signed up to bring.
+-Otherwise, don't forget to sign up so we can make sure that everyone doesn't bring the same thing.
+-See [[/signup/2023-09-03 the online signup]]
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2023-10-01-food Bring & share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and eat together
+http://nlife.ca/signup/2023-10-01
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-If you signed up in advance last Sunday, you can click on the link below to see what you signed up to bring.
+-Otherwise, don't forget to sign up so we can make sure that everyone doesn't bring the same thing.
+-See [[/signup/2023-10-01 the online signup]]
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2023-11-05-food Bring & Share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and eat together
+http://nlife.ca/signup/2023-11-05
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-Don't forget to sign up so we can make sure that everyone doesn't bring the same thing.
+-See [[/signup/2023-11-05 the online signup]]
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2023-12-10-food Christmas Bring & Share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and eat together
+http://nlife.ca/signup/2023-12-10
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+//-Signup will be active nearer the time
+-Don't forget to sign up so we can make sure that everyone doesn't bring the same thing.
+-See [[/signup/2023-12-10 the online signup]]
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2024-01-14-food Bring & Share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and share food together
+http://nlife.ca/signup/2024-01-14
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-Don't forget to sign up so we can make sure that everyone doesn't bring the same thing.
+-See [[/signup/2024-01-14 the online signup]]
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2024-02-04-food Bring & Share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and share food together
+http://nlife.ca/signup/2024-02-04
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-Don't forget to sign up so we can make sure that everyone doesn't bring the same thing.
+-See [[/signup/2024-02-04 the online signup]]
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2024-03-03-food Bring & Share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and share food together
+http://nlife.ca/signup/2024-03-03
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-Don't forget to sign up so we can make sure that everyone doesn't bring the same thing.
+-See [[/signup/2024-03-03 the online signup]]
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2024-03-31-food Easter + Newlife Birthday Celebration: bring & share meal /////////////////////////////////////////
+This Sunday we will joyfully celebrate the resurrection by eating together after church
+http://nlife.ca/signup/2024-03-31
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-Don't forget to sign up so we can make sure that everyone doesn't bring the same thing.
+-See [[/signup/2024-03-31 the online signup]]
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2024-05-05-food Bring & Share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and share food together
+http://nlife.ca/signup/2024-05-05
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-Don't forget to sign up so we can make sure that everyone doesn't bring the same thing.
+-See [[/signup/2024-05-05 the online signup]]
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2024-06-02-food Bring & Share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and share food together
+http://nlife.ca/signup/2024-06-02
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-Don't forget to sign up so we can make sure that everyone doesn't bring the same thing.
+-See [[/signup/2024-06-02 the online signup]]
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2024-07-07-food Bring & Share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and share food together
+http://nlife.ca/signup/2024-07-07
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-Don't forget to sign up so we can make sure that everyone doesn't bring the same thing.
+-See [[/signup/2024-07-07 the online signup]]
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2024-08-04-food Bring & Share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and share food together
+http://nlife.ca/signup/2024-08-04
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-Don't forget to sign up so we can make sure that everyone doesn't bring the same thing.
+-See [[/signup/2024-08-04 the online signup]]
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2024-09-01-food Bring & Share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and share food together
+http://nlife.ca/signup/2024-09-01
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-Don't forget to sign up so we can make sure that everyone doesn't bring the same thing.
+-See [[/signup/2024-09-01 the online signup]]
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2024-10-06-food Early Thanksgiving Bring & share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and eat together, with a Thanksgiving theme
+http://nlife.ca/signup/2024-10-06
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-If you didn't sign up last Sunday, then please [[/signup/2024-10-06 sign up here to bring something]].
+-If you have something you like to make or a dish that reminds you of home please make it so we can all enjoy.
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2024-11-03-food Bring & Share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and share food together
+http://nlife.ca/signup/2024-11-03
+"after church" St. Joseph's Cafeteria
+2015-11-01-bring-share_0.jpg Bring and share!
+-Don't forget to sign up so we can make sure that everyone doesn't bring the same thing.
+-See [[/signup/2024-11-03 the online signup]]
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2024-12-01-food Christmas Bring & Share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and share food together
+https://newlife-church.ca/food/
+"after church" St. Joseph's Cafeteria
+https://newlife-church.ca/food/bring-and-share.jpg Bring and share!
+-Please check out the [[https://newlife-church.ca/food/ the online signup]]
+-It's a big help if you sign up so we can make sure there is a good balance.
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2025-01-05-food New Year's Bring & Share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and share food together
+https://newlife-church.ca/food/
+"after church" St. Joseph's Cafeteria
+https://newlife-church.ca/food/bring-and-share.jpg Bring and share!
+-Please [[https://newlife-church.ca/food/ sign up online]] if you haven't done so already.
+-It's a big help if you sign up so we can make sure there is a good balance.
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2025-02-02-food Bring & Share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and share food together
+https://ourchur.ch/food/
+"after church" St. Joseph's Cafeteria
+https://ourchur.ch/img/bring-and-share.jpg Bring and share!
+-Please [[https://ourchur.ch/food/ sign up online]] if you haven't done so already.
+-It's a big help if you sign up so we can make sure there is a good balance.
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2025-03-02-food Bring & Share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and share food together
+https://ourchur.ch/food/
+"after church" St. Joseph's Cafeteria
+https://ourchur.ch/img/bring-and-share.jpg Bring and share!
+-Please [[https://ourchur.ch/food/ sign up online]] if you haven't done so already.
+-It's a big help if you sign up so we can make sure there is a good balance.
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2025-04-06-food Newlife Birthday Celebration: bring & share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and share food together
+https://ourchur.ch/food/
+"after church" St. Joseph's Cafeteria
+https://ourchur.ch/img/bring-and-share.jpg Bring and share!
+-Please [[https://ourchur.ch/food/ sign up online]] if you haven't done so already.
+-It's a big help if you sign up so we can make sure there is a good balance.
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2025-05-04-food Bring & Share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and share food together
+https://ourchur.ch/food/
+"after church" St. Joseph's Cafeteria
+https://ourchur.ch/img/bring-and-share.jpg Bring and share!
+-Please [[https://ourchur.ch/food/ sign up online]] if you haven't done so already.
+-It's a big help if you sign up so we can make sure there is a good balance.
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2025-07-06-food Bring & Share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and share food together
+https://ourchur.ch/food/
+"after church" St. Joseph's Cafeteria
+https://ourchur.ch/img/bring-and-share.jpg Bring and share!
+-Please [[https://ourchur.ch/food/ sign up online]] if you haven't done so already.
+-It's a big help if you sign up so we can make sure there is a good balance.
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2025-08-03-food Bring & Share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and share food together
+https://ourchur.ch/food/
+"after church" St. Joseph's Cafeteria
+https://ourchur.ch/img/bring-and-share.jpg Bring and share!
+-Please [[https://ourchur.ch/food/ sign up online]] if you haven't done so already.
+-It's a big help if you sign up so we can make sure there is a good balance.
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+$event 2025-06-01-food Bring & Share meal /////////////////////////////////////////
+This Sunday everyone's welcome to stay after church and share food together
+https://ourchur.ch/food/
+"after church" St. Joseph's Cafeteria
+https://ourchur.ch/img/bring-and-share.jpg Bring and share!
+-Please [[https://ourchur.ch/food/ sign up online]] if you haven't done so already.
+-It's a big help if you sign up so we can make sure there is a good balance.
+-Contact [[mailto:anne@nlife.ca Anne]] if you have any questions
+
+//////////////////////////////////////////////////////////////////////////////////////////////////
+$event 2019-06-16-preacher Special Preacher
 Mike Seaman visiting from Trinity Life Church
 
 11:00am
@@ -466,7 +733,7 @@ noimage
 
 $event 2021-08-08-church Opportunity for In-Person Church on Aug 8
 Kiran & Pratyusha have offered their home next Sunday
-
+noimage
 11:00am-1:00pm 508 Milton Street, Oshawa L1H6S5 //Kiran Matlapudi
 noimage
 -We hope that in September we will be meeting at the school again, but in the meantime we want to gather as best as we can

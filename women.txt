@@ -196,12 +196,12 @@ http://nlife.ca/meeting/2020-04-18
 noimage
 -This month well be discussing how we can continue to deepen our relationships with God, one another and our community even though we are forced to stay physically distant.
 -This is a strange time, but God's kingdom is still advancing, so we should be too! 
--Brew your own tea or coffee and join us on Zoom at http://go.church.to/ttt
+-Brew your own tea or coffee and join us on Zoom at https://go.church.to/ttt
 
 $event 2020-05-23-women Women's Tea, Talk and Truth /////////////////////////////////////////
 Prepare to be Amazed
 http://nlife.ca/meeting/2020-05-23
-10:30am-12:30pm on http://go.church.to/ttt
+10:30am-12:30pm on https://go.church.to/ttt
 noimage
 -The 10 ladies who joined the TTT meeting last month made a commitment to pray for each other every week until the next meeting. In anticipation of what God would do, we called ourselves the Prepare to be Amazed prayer group!
 -We have been checking in with one another on Saturday mornings since, and have been able to share some really amazing things that God has been speaking to us for ourselves and each other.
@@ -210,7 +210,7 @@ noimage
 $event 2020-06-20-women Women's Tea, Talk and Truth /////////////////////////////////////////
 Prepare to be Amazed
 http://nlife.ca/meeting/2020-06-20
-10:30am-12:30pm on http://go.church.to/ttt
+10:30am-12:30pm on https://go.church.to/ttt
 noimage
 -We made a commitment to pray for each other every week until the next meeting. In anticipation of what God would do, we called ourselves the Prepare to be Amazed prayer group!
 -We have been checking in with one another on Saturday mornings since, and have been able to share some really amazing things that God has been speaking to us for ourselves and each other.
@@ -219,7 +219,7 @@ noimage
 $event 2020-07-18-women Women's Tea, Talk and Truth /////////////////////////////////////////
 Wisdom and encouragement from Jesus
 http://nlife.ca/meeting/2020-07-18
-10:30am-12:30pm on http://go.church.to/ttt
+10:30am-12:30pm on https://go.church.to/ttt
 noimage
 -This month we will hear from a few ladies about how the Holy Spirit has been speaking to them over the past few months.
 -In the midst of all that has been happening in the world, we will turn to Jesus for our wisdom and encouragement together
@@ -228,7 +228,7 @@ noimage
 $event 2020-08-22-women Women's Tea, Talk and Truth /////////////////////////////////////////
 Wisdom and encouragement from Jesus
 http://nlife.ca/meeting/2020-08-22
-10:30am-12:30pm on http://go.church.to/ttt
+10:30am-12:30pm on https://go.church.to/ttt
 noimage
 //-This month we will hear from a few ladies about how the Holy Spirit has been speaking to them over the past few months.
 -In the midst of all that has been happening in the world, we will turn to Jesus for our wisdom and encouragement together
@@ -262,7 +262,7 @@ http://nlife.ca/sites/default/files/2020-09-05-afternoon_tea_ad.jpg
 $event 2020-09-26-women Women's Tea, Talk and Truth /////////////////////////////////////////
 Focus on prayer
 http://nlife.ca/meeting/2020-09-19
-10:30am-12:30pm on http://go.church.to/ttt (Zoom)
+10:30am-12:30pm on https://go.church.to/ttt (Zoom)
 noimage
 -We will spend some together in prayer to our dear Father.
 -We hope you can join us!
@@ -270,7 +270,7 @@ noimage
 $event 2020-10-17-women Women's Tea, Talk and Truth /////////////////////////////////////////
 Anne will be speaking on "God our Delight"
 http://nlife.ca/meeting/2020-10-17
-10:30am-12:30pm on http://go.church.to/ttt (Zoom)
+10:30am-12:30pm on https://go.church.to/ttt (Zoom)
 noimage
 -We will spend some time looking at Scriptures and discussing this name of God: "Our delight".
 -This can be a tremendous encouragement in our seemingly endless Covid lockdown.
@@ -279,15 +279,15 @@ noimage
 $event 2020-11-21-women Women's Tea, Talk and Truth /////////////////////////////////////////
 Speaker TBA
 http://nlife.ca/meeting/2020-11-21
-10:30am-12:30pm on http://go.church.to/ttt (Zoom)
+10:30am-12:30pm on https://go.church.to/ttt (Zoom)
 noimage
 -We will spend some together encouraging one another in the Lord
 -We hope you can join us!
 
-$event 2020-12-13-women Newlife Women's Christmas Tea /////////////////////////////////////////
+$event 2020-12-13-women NewLife Women's Christmas Tea /////////////////////////////////////////
 $NULL
 http://nlife.ca/meeting/2020-12-13w
-3:30-5:30 on http://go.church.to/ttt (Zoom)
+3:30-5:30 on https://go.church.to/ttt (Zoom)
 http://nlife.ca/sites/default/files/2020-12-13-women.jpg
 -Join us on Zoom from your cozy home for an afternoon to celebrate our wonderful saviour Jesus, with festive treats delivered directly to your door!
 -We look forward to seeing there
@@ -295,7 +295,7 @@ http://nlife.ca/sites/default/files/2020-12-13-women.jpg
 $event 2021-01-23-women Women's Tea, Talk and Truth /////////////////////////////////////////
 Moyo will be speaking on "Fervent"
 http://nlife.ca/meeting/2021-03-20
-10:30am-12:30pm on http://go.church.to/ttt (Zoom)
+10:30am-12:30pm on https://go.church.to/ttt (Zoom)
 noimage
 -how we can fervently pursue God
 -Looking at Galatians 6:7-8
@@ -304,7 +304,7 @@ noimage
 $event 2021-02-20-women Women's Tea, Talk and Truth /////////////////////////////////////////
 Ruth will be sharing on the Biblical concept of _shalom_
 http://nlife.ca/meeting/2021-02-20
-10:30am-12:30pm on http://go.church.to/ttt (Zoom)
+10:30am-12:30pm on https://go.church.to/ttt (Zoom)
 noimage
 -We'll explore how we experience _shalom_ and how we are called to '_shalom_-bringers' in the world! 
 -Please watch this marvellous 3 min animation: https://www.youtube.com/watch?v=oLYORLZOaZE
@@ -312,7 +312,7 @@ noimage
 $event 2021-03-20-women Women's Tea, Talk and Truth /////////////////////////////////////////
 "Living in the in-between"
 http://nlife.ca/meeting/2021-03-20
-10:30am-12:30pm on http://go.church.to/ttt (Zoom)
+10:30am-12:30pm on https://go.church.to/ttt (Zoom)
 noimage
 $if !TRUE
 -Last month, Ruth shared the concept of shalom; God's plan for wholeness and flourishing
@@ -331,7 +331,7 @@ $endif
 $event 2021-04-24-women Women's Tea, Talk and Truth /////////////////////////////////////////
 "My story of searching for God in one of the darkest and most difficult times in my life" by Anne Fountain
 http://nlife.ca/meeting/2021-04-24
-10:30am-12:30pm on http://go.church.to/ttt (Zoom)
+10:30am-12:30pm on https://go.church.to/ttt (Zoom)
 noimage
 -We will spend some together encouraging one another in the Lord
 -We hope you can join us!
@@ -339,7 +339,7 @@ noimage
 $event 2021-05-22-women Women's Tea, Talk and Truth /////////////////////////////////////////
 Why is casting our cares upon Jesus so hard?
 http://nlife.ca/meeting/2021-05-22
-10:30am-12:30pm on http://go.church.to/ttt (Zoom)
+10:30am-12:30pm on https://go.church.to/ttt (Zoom)
 noimage
 -We all know the concept that giving our anxieties and worries to Jesus is a way to experience peace, but life is still so full of anxiety sometimes!
 -Are we missing something?
@@ -348,7 +348,7 @@ noimage
 $event 2021-06-19-women Women's TTT //Tea, Talk and Truth /////////////////////////////////////////
 Sharing time: Pratyusha, Melinda, Jeanine //& others
 http://nlife.ca/meeting/2021-06-19
-10:30am-12:30pm on http://go.church.to/ttt (Zoom)
+10:30am-12:30pm on https://go.church.to/ttt (Zoom)
 noimage
 -Note the time change! Based on feedback we're trying out a new format: // for our time together. It will look something like this:
 <div style="text-align:left;">*10.50* - Zoom meeting begins; we arrive!/
@@ -360,7 +360,7 @@ noimage
 /*
 <div style="text-align:left;">*10.50* - start Zoom meeting, arrive and chat/
 *11.00* - talk + discussion/
-*12.00* - end of organised program so those with less time can leave; prayer requests, pray together, chat & fellowship/
+*12.00* - end of organized program so those with less time can leave; prayer requests, pray together, chat & fellowship/
 *1.00* - end meeting--We will spend some together encouraging one another in the Lord</div>
 */
 
@@ -372,9 +372,7 @@ noimage
 -Informal time, so everyone can chat and get to know one another again
 -Refreshments will be available during the course of the meeting
 -We'll have a mix of fun things and more spiritual reflections
-<div style="text-align:left;">*11.00* fun + discussion/
-*12.00* end of organised program so those with less time can leave; prayer requests, pray together, chat & fellowship/
-$SP *1.00*  end meeting</div>
+<div style="text-align:left;">*11.00* fun + discussion/+*12.00* end of organized program so those with less time can leave; prayer requests, pray together, chat & fellowship/+$SP *1.00*  end meeting</div>
 -We hope you can join us!
 
 $event 2021-08-21-women Women's Tea, Talk and Truth /////////////////////////////////////////
@@ -383,8 +381,8 @@ http://nlife.ca/meeting/2021-08-21
 11:00am-1:00pm $fountains
 noimage
 *11.00* Evon will be sharing what God has been speaking to her about recently/
-$EMSP $EMSP (there will be refreshments)/
-*12.00* end of organised program so those with less time can leave; prayer requests, pray together, chat & fellowship/
+$EMSP $EMSP $EMSP (there will be refreshments)/
+*12.00* end of organized program so those with less time can leave; prayer requests, pray together, chat & fellowship/
 $SP *1.00*  end meeting
 -We hope you can join us!
 
@@ -393,11 +391,466 @@ Meeting in-person at Anne's house
 http://nlife.ca/meeting/2021-09-18
 11:00am-1:00pm $fountains
 noimage
--Topic: TBA
--Refreshments will be available during the course of the meeting
-<div style="text-align:left;">*11.00* fun + discussion/
-*12.00* end of organised program so those with less time can leave; prayer requests, pray together, chat & fellowship/
-$SP *1.00*  end meeting</div>
+*11.00* Anusha will be sharing/
+$EMSP $EMSP $EMSP _(there will be refreshments)_/
+*12.00* end of organized program so those with less time can leave;/
+$EMSP $EMSP $EMSP pray together, chat & fellowship/
+$SP *1.00*  end meeting
 -We hope you can join us!
+
+$event 2021-10-23-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Meeting in-person at Anne's house
+http://nlife.ca/meeting/2021-10-23
+11:00am-1:00pm $fountains
+noimage
+*11.00* Organised Time of Sharing/
+$EMSP $EMSP $EMSP _(there will be refreshments)_/
+*12.00* End of organized program so those with less time can leave;/
+$EMSP $EMSP $EMSP pray together, chat & fellowship/
+$SP *1.00*  End meeting
+-We hope you can join us!
+
+$event 2021-11-20-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Meeting in-person at Anne's house (+ on Zoom https://go.church.to/ttt )
+http://nlife.ca/meeting/2021-11-20
+11:00am-1:00pm $fountains
+noimage
+*11.00* Topic: Organised Time of Sharing/
+$EMSP $EMSP $EMSP _(there will be refreshments)_/
+*12.00* end of organized program so those with less time can leave;/
+$EMSP $EMSP $EMSP pray together, chat & fellowship/
+$SP *1.00*  end meeting
+-We hope you can join us!
+
+$event 2021-12-17-women Women's TTT Christmas party /////////////////////////////////////////
+//Join us for a
+An evening to celebrate Christmas and hang out together!
+http://nlife.ca/meeting/2021-12-17
+7:00pm-9:00pm $fountains
+noimage
+-We will share some tasty festive snacks and desserts, listen to Christmas carols and have a number of simple and fun festive crafts to engage in at your leisure.
+//-All welcome!
+//-Please RSVP to Ruth by Monday 13th December.
+-Space at this event has been filled, and we look forward to seeing you who have RSVP'ed
+
+$event 2022-01-22-women Women's Tea, Talk and Truth /////////////////////////////////////////
+A time of looking forward to the coming year in prayer and discussion
+http://nlife.ca/meeting/2022-01-22
+11:00am-12:00pm on https://go.church.to/ttt (Zoom)
+noimage
+We've missed you and would like you all to be at this meeting./
+We plan to have some discussion and prayer on the future of the women's group, what we want to accomplish and how best it can serve your needs and those of others./
+Your opinions and ideas are very valuable./
+Most of all we want to see you!!
+The meeting will start promptly at 11:00am, and you to stay on after 12:00pm for a fellowship time.
+
+$event 2022-02-12-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Meeting in-person at Anne's house (+ on Zoom https://go.church.to/ttt )
+http://nlife.ca/-meeting/2022-02-12
+11:00am-1:00pm $fountains and https://go.church.to/ttt (Zoom)
+noimage
+*11.00* "Complete healing" led by Mrudula & Melinda/
+$EMSP $EMSP $EMSP _(there will be refreshments)_/
+*12.00* end of organized program so those with less time can leave;/
+$EMSP $EMSP $EMSP pray together, chat & fellowship/
+$SP *1.00*  end meeting
+-We hope you can join us!
+
+$event 2022-03-19-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Meeting in-person at Anne's house
+http://nlife.ca/-meeting/2022-03-19
+11:00am-1:00pm $fountains
+noimage
+*11.00* Anusha and Pratyusha will be leading TTT this month. They will be sharing from 1 Samuel and talking about how to reestablish our hearts after God./
+$EMSP $EMSP $EMSP _(there will be refreshments)_/
+*12.00* end of organized program so those with less time can leave; 
+//$EMSP $EMSP $EMSP pray together, chat & fellowship/
+$SP *1.00*  end meeting
+-We hope you can join us!
+
+$event 2022-04-23-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Special Event: Akemi will be speaking on Nutrition
+http://nlife.ca/-meeting/2022-04-23
+11:00am-1:00pm $fountains and https://go.church.to/ttt (Zoom)
+noimage
+/*
+The presentation will be mainly focused on "What can cause digestive dysfunction?"
+I will be talking about how low stomach acid, stress, and microbiome imbalance can affect digestive function and how they will affect nutrients absorption and cause certain conditions (such as gas and bloating).
+
+*11.00* Topic: TBA/
+$EMSP $EMSP $EMSP _(there will be refreshments)_/
+*12.00* end of organized program so those with less time can leave;/
+$EMSP $EMSP $EMSP pray together, chat & fellowship/
+$SP *1.00*  end meeting
+*/
+-We hope you can join us!
+
+$event 2022-05-14-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Spring Walk at the Brickworks
+http://nlife.ca/-meeting/2022-05-14
+11:00am-1:00pm _Evergreen Brickworks_
+noimage
+For all NewLife women! Join us at the Evergreen Brickworks to spend some time together walking on beautiful, gentle trails, seeing the trees and wildflowers springing to life, enjoying the views across the ponds, and chatting to one another.
+-Meeting Point: By the TTC Shuttle Bus drop off (every 15 min from Broadview subway)
+-Snacks: Please bring a drink and a snack for yourself.
+-Useful Links:/+[[https://evergreen.ca/evergreen-brick-works Brickworks Website]]/+[[https://evergreen.ca/evergreen-brick-works/visitor-info/visitor-map Map showing Shuttle bus stop (front and center)]]/+[[https://evergreen.ca/evergreen-brick-works/visitor-info/getting-here/shuttle-bus/#sat Shuttle Bus info. Scroll down for Saturday schedule]]
+//-We can't provide refreshments, so please bring a snack (There this a cafe on-site but it may be expensive)
+//-Best to get there by transit since parking is expensive--there's a shuttle-bus from Broadview subway.
+
+$event 2022-06-18-women Women's Tea, Talk and Truth /////////////////////////////////////////
+//Interactive event: "What is our hope in Christ?"
+Interactive: "What is our hope in Christ?"
+http://nlife.ca/-meeting/2022-06-18
+10:30am-1:00pm $fountains
+noimage
+*10:30* arrival and snack/
+*11:00* discussion/
+*12.00* end of organized program so those with less time can leave;/
+$EMSP $EMSP $EMSP pray together, chat & fellowship/
+$SP *1.00*  end meeting
+-_*Please prepare for the meeting by thinking of some Scripture you can share*_.
+//-This will be an interactive event, so _*please prepare for the meeting by thinking of some Scripture you can share*_.
+//But I would like to make it interactive that is to say that I would like other women to also share on this by bringing some Scriptures.
+//If it’s okay with you, could you mention it on the newsletter so that women can be prepared for the meeting? And also share with Asha so that she can post on Instagram ?
+
+$event 2022-07-23-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Activity: Helping Melinda move
+http://nlife.ca/-meeting/2022-07-23
+"morning/afternoon" various locations
+noimage
+-Please contact Ruth if you are available to help in any way on Saturday
+
+$event 2022-10-22-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Meeting in-person at Anne's house
+http://nlife.ca/meeting/2022-10-22
+11:00am-1:00pm $fountains
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00* Program starts. *Topic: Loneliness*/
+*12.00* end of organized program so those with less time can leave;/
+$EMSP $EMSP $EMSP pray together, chat & fellowship/
+$SP *1.00*  end meeting
+-We hope you can join us!
+
+$event 2022-11-19-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Meeting in-person at Anne's house
+http://nlife.ca/meeting/2022-11-19
+11:00am-1:00pm $fountains
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00* Program starts. Topic: Melandi will lead a discussion/bible study about joy/
+*12.00* end of organized program so those with less time can leave;/
+$EMSP $EMSP $EMSP pray together, chat & fellowship/
+$SP *1.00*  end meeting
+-We hope you can join us!
+
+$event 2022-12-16-women Women's TTT Christmas party /////////////////////////////////////////
+An evening to celebrate Christmas and hang out together!
+http://nlife.ca/meeting/2022-12-18
+7:00pm-9:00pm $fountains
+noimage
+-We will share some tasty festive snacks and desserts, listen to Christmas carols and have a number of simple and fun festive crafts to engage in at your leisure.
+-All welcome!
+//-Please RSVP to Ruth by Monday 13th December.
+//-Space at this event has been filled, and we look forward to seeing you who have RSVP'ed
+//Christmas crafts Christmas worship Christmas food
+
+$event 2023-02-18-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Chocolate Fondue
+http://nlife.ca/meeting/2023-02-18
+11:00am-1:00pm $fountains
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00* Program starts. Topic: TBA/
+*12.00* end of organized program so those with less time can leave;/
+$EMSP $EMSP $EMSP pray together, chat & fellowship/
+$SP *1.00*  end meeting
+-We hope you can join us!
+
+$event 2023-03-18-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Melinda will be giving her testimony
+http://nlife.ca/meeting/2023-03-18
+11:00am-1:00pm $wicks
+noimage
+-Watch out for more details
+
+$event 2023-04-15-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Jeanine will be speaking
+http://nlife.ca/meeting/2023-04-15
+11:00am-1:00pm $fountains
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/
+$SP$SP*1.00* finish
+
+$event 2023-05-20-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Activity -- Walk around Riverdale Farm
+http://nlife.ca/meeting/2023-05-20
+11:00am-1:00pm $fountains
+noimage
+-*10.30* _Doors open at 360 Sackville St_
+-*11.00* Set out on a walk around the nearby farm and enjoy the lovely weather/+(There's plan B if the weather is bad)
+-We'll return to 360 Sackville for refreshments
+
+$event 2023-06-17-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Activity -- Walk around Riverdale Farm
+http://nlife.ca/meeting/2023-06-17
+10.30am-1:00pm $fountains
+noimage
+*10.30* _Doors open & start to gather_/
+*11.00* Walk to Riverdale Farm, returning later for refreshments/
+$SP$SP*1.00* finish
+
+$event 2023-07-22-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Picnic at Riverdale Park West
+http://nlife.ca/meeting/2023-07-22
+10.30am-1:00pm $fountains
+noimage
+*10.30* _Doors open & start to gather_/
+*11.00* Walk to Riverdale Park for the picnic/
+$SP$SP*1.00* finish
+Bring your own food plus anything you want to share/
+If the weather is bad, don't worry, we will have a backup plan!
+
+$event 2023-09-16-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Share your favorite woman in the Bible
+http://nlife.ca/meeting/2023-09-16
+10.30am-1:00pm $fountains
+noimage
+Come with one of your favorite women in the Bible and share:
+-What you learned about God’s character?
+-In what ways can you relate to this woman?
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/+$SP$SP*1.00* finish
+
+$event 2023-10-21-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Speaker TBA
+http://nlife.ca/meeting/2023-10-21
+10.30am-1:00pm $fountains
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/
+$SP$SP*1.00* finish
+
+$event 2023-11-18-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Anne will lead a discussion on "Praying when Life Hurts"
+http://nlife.ca/meeting/2023-11-18
+10.30am-1:00pm $fountains
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/
+$SP$SP*1.00* finish
+
+$event 2023-12-15-women Women's TTT Christmas get-together /////////////////////////////////////////
+//Newlife women are having a fun Christmas gathering this Friday evening
+Newlife women's fun Christmas gathering on Friday evening
+http://nlife.ca/meeting/2023-12-15
+7:00pm $fountains
+noimage
+Bring a Christmas snack!/+We'll do some fun crafts, and maybe even sing some carols./+Don't miss this joyful festivity!
+
+$event 2024-01-27-women Women's Tea, Talk and Truth /////////////////////////////////////////
+discussion led by Anne
+http://nlife.ca/meeting/2024-01-27
+10.30am-1:00pm $fountains
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/
+$SP$SP*1.00* finish
+
+$event 2024-02-17-women Women's Tea, Talk and Truth /////////////////////////////////////////
+How to talk to others about our faith
+http://nlife.ca/meeting/2024-02-17
+10.30am-1:00pm $fountains
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/
+$SP$SP*1.00* finish
+
+$event 2024-03-16-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Everyday Faithfulness: The Beauty of Ordinary Perseverance in a Demanding World
+http://nlife.ca/meeting/2024-03-16
+10.30am-1:00pm $wicks
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/
+$SP$SP*1.00* finish
+
+$event 2024-04-20-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Everyday Faithfulness: The Beauty of Ordinary Perseverance in a Demanding World
+http://nlife.ca/meeting/2024-04-20
+10.30am-1:00pm $wicks
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/
+$SP$SP*1.00* finish
+
+$event 2024-05-25-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Discussing ch 3 of _Everyday Faithfulness: The Beauty of Ordinary Perseverance in a Demanding World_
+http://nlife.ca/meeting/2024-05-25
+10.30am-1:00pm $fountains
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/
+$SP$SP*1.00* finish
+
+$event 2024-06-22-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Discussing ch 4 of _Everyday Faithfulness: The Beauty of Ordinary Perseverance in a Demanding World_
+http://nlife.ca/meeting/2024-06-22
+10.30am-1:00pm $fountains
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/
+$SP$SP*1.00* finish
+
+$event 2024-07-20-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Discussing ch 5 of _Everyday Faithfulness: The Beauty of Ordinary Perseverance in a Demanding World_
+http://nlife.ca/meeting/2024-07-20
+10.30am-1:00pm $fountains and https://go.church.to/ttt (Zoom)
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/
+$SP$SP*1.00* finish
+
+$event 2024-09-21-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Discussing ch 6 of _Everyday Faithfulness: Faithful When You're Suffering_
+http://nlife.ca/meeting/2024-07-20
+10.30am-1:00pm $fountains and https://go.church.to/ttt (Zoom)
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/
+$SP$SP*1.00* finish
+
+$event 2024-10-19-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Discussing ch 7 of _Everyday Faithfulness: Faithful when your heart is cold_
+http://nlife.ca/meeting/2024-10-19
+10.30am-1:00pm $wicks and https://go.church.to/ttt (Zoom)
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/
+$SP$SP*1.00* finish
+
+$event 2024-11-23-women Women's Tea, Talk and Truth /////////////////////////////////////////
+Discussing ch 8 of _Everyday Faithfulness: Faithful when you sin_
+http://nlife.ca/meeting/2024-11-23
+10.30am-1:00pm $fountains and https://go.church.to/ttt (Zoom)
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/
+$SP$SP*1.00* finish
+
+//October	19-Oct	TBC	Bambo	7 - Faithful when your heart is cold
+//November	16-Nov	TBC	Moyo	8 - Faithful when you sin
+//December	TBC	TBC	TBC	9 - Faithful to the end
+
+$event 2024-12-21-women Women's Christmas bring & share dinner /////////////////////////////////////////
+Discussing ch 9 of _Everyday Faithfulness:_ Faithful to the end
+http://nlife.ca/meeting/2024-12-21
+6.30pm $fountains
+noimage
+-Join us for a Christmas bring & share dinner and reflection on our year reading Everyday Faithfulness./
+ If you have any questions, please ask Ruth.
+
+$event 2025-01-18-women Women’s TTT meeting /////////////////////////////////////////
+Discussing Intro of _Praying Like Monks, Living Like Fools_
+http://nlife.ca/meeting/2025-01-18
+10.30am-1:00pm $fountains
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/
+$SP$SP*1.00* finish
+
+$event 2025-02-22-women Women’s TTT meeting /////////////////////////////////////////
+Discussing ch 1 of _Praying Like Monks, Living Like Fools_
+http://nlife.ca/meeting/2025-02-15
+10.30am-1:00pm $fountains
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/
+$SP$SP*1.00* finish
+
+$event 2025-03-15-women Women’s TTT meeting /////////////////////////////////////////
+Discussing ch 2 of _Praying Like Monks, Living Like Fools_
+http://nlife.ca/meeting/2025-03-15
+10.30am-1:00pm $fountains
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/
+$SP$SP*1.00* finish
+
+$event 2025-04-26-women Women’s TTT meeting /////////////////////////////////////////
+Discussing ch 3 of _Praying Like Monks, Living Like Fools_
+http://nlife.ca/meeting/2025-04-26
+10.30am-1:00pm $fountains
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/
+$SP$SP*1.00* finish
+
+$event 2025-05-24-women Women’s TTT meeting /////////////////////////////////////////
+Discussing ch 4 of _Praying Like Monks, Living Like Fools_
+http://nlife.ca/meeting/2025-05-24
+10.30am-1:00pm $wicks
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/
+$SP$SP*1.00* finish
+
+$event 2025-06-21-women Women’s TTT meeting /////////////////////////////////////////
+Discussing ch 5 of _Praying Like Monks, Living Like Fools_
+https://nlife.ca/meeting/2025-06-21
+10.30am-1:00pm $wicks
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/
+$SP$SP*1.00* finish
+
+$event 2025-07-26-women Women’s TTT Picnic /////////////////////////////////////////
+Summer picnic social
+https://nlife.ca/meeting/2025-07-26
+12pm-2.30pm in the park behind Ruth's house (39 Acores Ave).
+noimage
+-Bring a blanket and some food to share.
+-Please let us know whether you can make it and what you'll bring by chatting to Ruth or commenting in the Women's Whatsapp chat.
+
+$event 2025-09-20-women Women’s TTT meeting /////////////////////////////////////////
+Discussing ch 6 of _Praying Like Monks, Living Like Fools_
+https://nlife.ca/meeting/2025-09-20
+10.30am-1:00pm $fountains
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/
+$SP$SP*1.00* finish
+
+$event 2035-12-17-women Women’s TTT meeting /////////////////////////////////////////
+Speaker TBA
+https://nlife.ca/meeting/2025-12-17
+10.30am-1:00pm $fountains
+noimage
+*10.30* _Doors open & begin serving refreshments_/
+*11.00-12.00* Discussion time;/
+*12.00* pray, chat & fellowship. _Those with less time can leave_/
+$SP$SP*1.00* finish
 
 //end

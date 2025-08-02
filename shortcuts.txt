@@ -2,26 +2,28 @@
 $VER=2.76
 
 $if $nolinks
-  $bumos_full=Bumo and Hle's (Near Bloor/Broadview subway) $BR 50 Cambridge Ave (apt 303), Toronto ON M4K 2L3 
+  $bumos_full=N/A //Bumo and Hle's (Near Bloor/Broadview subway) $BR 50 Cambridge Ave (apt 303), Toronto ON M4K 2L3 
   $fountains_full=The Fountains' (Sackville & Carlton) 360 Sackville St, Toronto, M4X 1S4
   $fountains=The Fountains' 360 Sackville St
-  $heskes=Evert & Sandra's (Wellesley & Sherbourne) $BR 545 Sherbourne St. Apt 1906, _buzzer 317_
-  $quicks=Braden & Claire's/+23 Georgina Gate, Scarborough M1L 4V1
+  $heskes=N/A //Evert & Sandra's (Wellesley & Sherbourne) $BR 545 Sherbourne St. Apt 1906, _buzzer 317_
+  $quicks=N/A //Braden & Claire's/+23 Georgina Gate, Scarborough M1L 4V1
   $smiths=Dan & Heather's (St. Clair & Dufferin) 64 Earlsdale Ave
-  $toms=Tom's (Richmond & Sherbourne--left of Tim Horton's on the SE corner/+323 Richmond Street E apt.417, M5A 4R3 Buzzer: 7813
+  $toms=N/A //Tom's (Richmond & Sherbourne--left of Tim Horton's on the SE corner/+323 Richmond Street E apt.417, M5A 4R3 Buzzer: 7813
   $stjosephs=St. Joseph's College at 74 Wellesley St West (just west of Bay)
-  $wicks=*Suchiththa & Ruth's*\n -39 Acores Ave  M6G 4B4 (Ossington & Dupont)\n -10min north of Ossington subway
+  $wicks=*Suchiththa & Ruth's*, 39 Acores Ave M6G 4B4 (Ossington & Dupont), 15min walk north of Ossington subway
 $else
-  $bumos_full=Bumo and Hle's (Near Bloor/Broadview subway) $BR[[location/50-cambridge 50 Cambridge Ave (apt 303), Toronto ON M4K 2L3]] 
+  $bumos_full=N/A //Bumo and Hle's (Near Bloor/Broadview subway) $BR[[location/50-cambridge 50 Cambridge Ave (apt 303), Toronto ON M4K 2L3]] 
   $fountains_full=The Fountains' (Sackville & Carlton) $BR[[location/360sackville 360 Sackville St, Toronto, M4X 1S4]]
   $fountains=The Fountains' [[/location/360sackville 360 Sackville St]]
-  $heskes=Evert & Sandra's (Wellesley & Sherbourne) $BR[[/location/545_Sherbourne 545 Sherbourne St. Apt 1906, _buzzer 317_]]
-  $quicks=Braden & Claire's/+23 Georgina Gate, Scarborough M1L 4V1
+  $heskes=N/A //Evert & Sandra's (Wellesley & Sherbourne) $BR[[/location/545_Sherbourne 545 Sherbourne St. Apt 1906, _buzzer 317_]]
+  $quicks=N/A //Braden & Claire's/+23 Georgina Gate, Scarborough M1L 4V1
   $smiths=Dan & Heather's (St. Clair & Dufferin) $BR[[/location/64Earlsdale 64 Earlsdale Ave]]
-  $toms=Tom's (Richmond & Sherbourne--left of Tim Horton's on the SE corner/+[[/location/7323_Richmond_E 763 323 Richmond Street E apt.417, M5A 4R3 buzz: 7813]]
+  $toms=N/A //Tom's (Richmond & Sherbourne--left of Tim Horton's on the SE corner/+[[/location/7323_Richmond_E 763 323 Richmond Street E apt.417, M5A 4R3 buzz: 7813]]
   $stjosephs=[[/location/st_josephs St. Joseph's College]] at 74 Wellesley St West (just west of Bay)
-  $wicks=*Suchiththa & Ruth's*\n -39 Acores Ave  M6G 4B4 \n (Ossington & Dupont - 10min walk north of Ossington subway)
+  $wicks=*Suchiththa & Ruth's*, 39 Acores Ave M6G 4B4 (Ossington & Dupont), 15min walk north of Ossington subway
 $endif
+$marks=Mark's Apartment at/+St. Clair & Spadina
+//$marks=Mark's Apartment/+400 Walmer Rd apt 2211 (west tower),/+York ON (buzzer 1706)
 $modify($sun).whenunset(Sunday)
 $bumos=Bumo and Hle's (Near Bloor/Broadview subway)
 
